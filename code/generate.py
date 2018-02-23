@@ -1,10 +1,87 @@
 # coding: utf-8
+import json
 import os
 import sys
+
+import requests
 import tags
 import question
 import time
+from tomd import Tomd
 
+def get_question_detail(titleSlug):
+    url = "https://leetcode.com/graphql"
+    headers = {
+        "x-csrftoken":"hnCRhIP9Ds7eKh79lMiX3VrrFHoXgLuSUGZ6rXd6S99WeIUF70rhPxfRhStAFXhr",
+        "referer":"https://leetcode.com/problems/",
+        "cookie":"csrftoken=hnCRhIP9Ds7eKh79lMiX3VrrFHoXgLuSUGZ6rXd6S99WeIUF70rhPxfRhStAFXhr; expires=Fri, 22-Feb-2019 12:36:31 GMT; Max-Age=31449600; Path=/; secure",
+        "Content-Type":"application/json"
+    }
+    payload = {
+        "operationName": "getQuestionDetail",
+        "variables":{"titleSlug":titleSlug},
+        "query":"""
+        query getQuestionDetail($titleSlug: String!) {
+  isCurrentUserAuthenticated
+  question(titleSlug: $titleSlug) {
+    questionId
+    questionFrontendId
+    questionTitle
+    questionTitleSlug
+    content
+    difficulty
+    stats
+    contributors
+    companyTags
+    topicTags
+    similarQuestions
+    discussUrl
+    mysqlSchemas
+    randomQuestionUrl
+    sessionId
+    categoryTitle
+    submitUrl
+    interpretUrl
+    codeDefinition
+    sampleTestCase
+    enableTestMode
+    metaData
+    enableRunCode
+    enableSubmit
+    judgerAvailable
+    infoVerified
+    envInfo
+    urlManager
+    article
+    questionDetailUrl
+    discussCategoryId
+    discussSolutionCategoryId
+    libraryUrl
+  }
+  interviewed {
+    interviewedUrl
+    companies {
+      id
+      name
+    }
+    timeOptions {
+      id
+      name
+    }
+    stageOptions {
+      id
+      name
+    }
+  }
+  subscribeUrl
+  isPremium
+  loginUrl
+}"""
+    }
+    r = requests.post(url, data=json.dumps(payload), headers=headers).text
+    r = json.loads(r)['data']['question']['content']
+    md = Tomd(r).markdown
+    return md
 
 def generate(tag):
     res = question.get_question()
@@ -18,11 +95,16 @@ def generate(tag):
             os.mkdir(path)
         for id in t['questions']:
             for r in res:
-                if r['question_id'] == id:
+                if r['question_id'] == id and r['paid_only'] != True:
                     qpath = path+os.path.sep+r['question_title']
                     isExists = os.path.exists(qpath)
-                    if not isExists:  # 生成各个tag的目录
+                    if not isExists:  # 生成各个题目的目录
                         os.mkdir(qpath)
+                        print(r['question_slug'])
+                        md = get_question_detail(r['question_slug'])
+
+                        with open(qpath+os.path.sep+"question.md","w") as f:
+                            f.write(md)
 
 if __name__ == "__main__":
     tag = tags.tags()
