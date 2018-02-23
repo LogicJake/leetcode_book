@@ -78,10 +78,16 @@ def get_question_detail(titleSlug):
   loginUrl
 }"""
     }
-    r = requests.post(url, data=json.dumps(payload), headers=headers).text
-    r = json.loads(r)['data']['question']['content']
-    md = Tomd(r).markdown
-    return md
+    try:
+        r = requests.post(url, data=json.dumps(payload), headers=headers,timeout=5)
+        r = r.text
+        r = json.loads(r)['data']['question']['content']
+        md = Tomd(r).markdown
+        return md
+    except:
+        time.sleep(1)
+        return get_question_detail(titleSlug)
+
 
 def generate(tag):
     res = question.get_question()
@@ -102,13 +108,12 @@ def generate(tag):
                 if r['question_id'] == id and r['paid_only'] != True:
                     qpath = path+os.path.sep+r['question_title']
                     isExists = os.path.exists(qpath)
+                    f.write("  \n       * [" + r['question_title']+"](book/"+name+"/"+r['question_title']+"/question.md)")
                     if not isExists:  # 生成各个题目的目录
                         os.mkdir(qpath)
-                    #print(r['question_title'])
-                    #md = "## "+r['question_title']+"  \n### "+"问题描述"+get_question_detail(r['question_slug'])
-                    f.write("  \n       * [" + r['question_title']+"](book/"+name+"/"+r['question_title']+"/question.md)")
-                    #with open(qpath+os.path.sep+"question.md","w",encoding='utf-8') as f:
-                    #    f.write(md)
+                        md = "## "+r['question_title']+"  \n### "+"问题描述"+get_question_detail(r['question_slug'])
+                        with open(qpath.strip()+os.path.sep+"question.md","w",encoding='utf-8') as ff:
+                            ff.write(md)
     f.close()
 
 if __name__ == "__main__":
