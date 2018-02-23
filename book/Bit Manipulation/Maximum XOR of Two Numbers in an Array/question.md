@@ -1,5 +1,6 @@
-
-Given a **non-empty** array of numbers, a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, �� , a<sub>n-1</sub>, where 0 &le; a<sub>i</sub> < 2<sup>31</sup>.
+## Maximum XOR of Two Numbers in an Array  
+### 问题描述
+Given a **non-empty** array of numbers, a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, … , a<sub>n-1</sub>, where 0 &le; a<sub>i</sub> < 2<sup>31</sup>.
 
 Find the maximum result of a<sub>i</sub> XOR a<sub>j</sub>, where 0 &le; *i*, *j* &lt; *n*.
 

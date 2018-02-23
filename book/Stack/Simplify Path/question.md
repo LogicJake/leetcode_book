@@ -1,4 +1,5 @@
-
+## Simplify Path  
+### 问题描述
 Given an absolute path for a file (Unix-style), simplify it.
 
 For example,<br />

@@ -1,4 +1,5 @@
-
+## Encode and Decode TinyURL  
+### 问题描述
 > Note: This is a companion problem to the [System Design](https://leetcode.com/problemset/system-design/) problem: [Design TinyURL](https://leetcode.com/problems/design-tinyurl/).
 
 TinyURL is a URL shortening service where you enter a URL such as `https://leetcode.com/problems/design-tinyurl` and it returns a short URL such as `http://tinyurl.com/4e9iAk`.

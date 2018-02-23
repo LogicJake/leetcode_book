@@ -1,4 +1,5 @@
-
+## Find the Difference  
+### 问题描述
 
 Given two strings ***s*** and ***t*** which consist of only lowercase letters.
 

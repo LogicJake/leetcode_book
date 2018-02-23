@@ -1,4 +1,5 @@
-
+## Pascal's Triangle II  
+### 问题描述
 Given an index *k*, return the *k*<sup>th</sup> row of the Pascal's triangle.
 
 

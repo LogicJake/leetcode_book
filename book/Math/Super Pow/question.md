@@ -1,4 +1,5 @@
-
+## Super Pow  
+### 问题描述
 
 Your task is to calculate *a*<sup>*b*</sup> mod 1337 where *a* is a positive integer and *b* is an extremely large positive integer given in the form of an array.
 

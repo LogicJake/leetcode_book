@@ -1,4 +1,5 @@
-
+## Repeated Substring Pattern  
+### 问题描述
 **Example 1:**<br />
 <pre>
 **Input:** "abab"

@@ -1,4 +1,5 @@
-
+## Total Hamming Distance  
+### 问题描述
 The [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) between two integers is the number of positions at which the corresponding bits are different.
 
 Now your job is to find the total Hamming distance between all pairs of the given numbers.</p>

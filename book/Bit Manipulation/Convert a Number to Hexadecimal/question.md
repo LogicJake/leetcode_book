@@ -1,6 +1,7 @@
-
+## Convert a Number to Hexadecimal  
+### 问题描述
 
-Given an integer, write an algorithm to convert it to hexadecimal. For negative integer, [two��s complement](https://en.wikipedia.org/wiki/Two%27s_complement) method is used.
+Given an integer, write an algorithm to convert it to hexadecimal. For negative integer, [two’s complement](https://en.wikipedia.org/wiki/Two%27s_complement) method is used.
 
 
 **Note:**

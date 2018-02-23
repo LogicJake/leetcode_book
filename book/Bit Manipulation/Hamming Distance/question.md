@@ -1,4 +1,5 @@
-
+## Hamming Distance  
+### 问题描述
 The [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) between two integers is the number of positions at which the corresponding bits are different.
 
 Given two integers `x` and `y`, calculate the Hamming distance.

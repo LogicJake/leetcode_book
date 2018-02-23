@@ -1,4 +1,5 @@
-
+## Distribute Candies  
+### 问题描述
 **Example 1:**<br />
 <pre>
 **Input:** candies = [1,1,2,2,3,3]

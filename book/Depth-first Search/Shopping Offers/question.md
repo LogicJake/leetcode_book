@@ -1,4 +1,5 @@
-
+## Shopping Offers  
+### 问题描述
 
 In LeetCode Store, there are some kinds of items to sell. Each item has a price.
 

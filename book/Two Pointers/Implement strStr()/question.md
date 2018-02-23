@@ -1,4 +1,5 @@
-
+## Implement strStr()  
+### 问题描述
 
 Implement [strStr()](http://www.cplusplus.com/reference/cstring/strstr/).
 

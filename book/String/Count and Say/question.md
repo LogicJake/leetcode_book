@@ -1,4 +1,5 @@
-
+## Count and Say  
+### 问题描述
 The count-and-say sequence is the sequence of integers with the first five terms as following:
 
 

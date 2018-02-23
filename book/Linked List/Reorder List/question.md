@@ -1,7 +1,8 @@
-
+## Reorder List  
+### é—®é¢˜æè¿°
 
-Given a singly linked list *L*: *L*<sub>0</sub>&rarr;*L*<sub>1</sub>&rarr;¡­&rarr;*L*<sub>*n*-1</sub>&rarr;*L*<sub>n</sub>,<br>
-reorder it to: *L*<sub>0</sub>&rarr;*L*<sub>*n*</sub>&rarr;*L*<sub>1</sub>&rarr;*L*<sub>*n*-1</sub>&rarr;*L*<sub>2</sub>&rarr;*L*<sub>*n*-2</sub>&rarr;¡­
+Given a singly linked list *L*: *L*<sub>0</sub>&rarr;*L*<sub>1</sub>&rarr;â€¦&rarr;*L*<sub>*n*-1</sub>&rarr;*L*<sub>n</sub>,<br>
+reorder it to: *L*<sub>0</sub>&rarr;*L*<sub>*n*</sub>&rarr;*L*<sub>1</sub>&rarr;*L*<sub>*n*-1</sub>&rarr;*L*<sub>2</sub>&rarr;*L*<sub>*n*-2</sub>&rarr;â€¦
 
 
 You must do this in-place without altering the nodes' values.

@@ -1,4 +1,5 @@
-
+## Integer Replacement  
+### 问题描述
 
 Given a positive integer *n* and you can do operations as follow:
 

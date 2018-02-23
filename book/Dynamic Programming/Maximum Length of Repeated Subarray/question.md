@@ -1,4 +1,5 @@
-
+## Maximum Length of Repeated Subarray  
+### 问题描述
 Given two integer arrays `A` and `B`, return the maximum length of an subarray that appears in both arrays.
 
 **Example 1:**<br />

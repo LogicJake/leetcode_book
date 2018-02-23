@@ -1,4 +1,5 @@
-
+## Delete Node in a BST  
+### 问题描述
 Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.
 
 Basically, the deletion can be divided into two stages:

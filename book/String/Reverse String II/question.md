@@ -1,4 +1,5 @@
-
+## Reverse String II  
+### 问题描述
 **Example:**<br />
 <pre>
 **Input:** s = "abcdefg", k = 2

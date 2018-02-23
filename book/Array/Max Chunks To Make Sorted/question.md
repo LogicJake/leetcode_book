@@ -1,4 +1,5 @@
-
+## Max Chunks To Make Sorted  
+### 问题描述
 Given an array `arr` that is a permutation of `[0, 1, ..., arr.length - 1]`, we split the array into some number of &quot;chunks&quot; (partitions), and individually sort each chunk.&nbsp; After concatenating them,&nbsp;the result equals the sorted array.
 
 What is the most number of chunks we could have made?

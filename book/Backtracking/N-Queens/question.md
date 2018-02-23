@@ -1,5 +1,6 @@
-
-The *n*-queens puzzle is the problem of placing *n* queens on an *n*��*n* chessboard such that no two queens attack each other.
+## N-Queens  
+### 问题描述
+The *n*-queens puzzle is the problem of placing *n* queens on an *n*×*n* chessboard such that no two queens attack each other.
 
 <img src="https://leetcode.com/static/images/problemset/8-queens.png" />
 

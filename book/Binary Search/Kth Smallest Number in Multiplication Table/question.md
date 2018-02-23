@@ -1,4 +1,5 @@
-
+## Kth Smallest Number in Multiplication Table  
+### 问题描述
 
 Nearly every one have used the [Multiplication Table](https://en.wikipedia.org/wiki/Multiplication_table). But could you find out the `k-th` smallest number quickly from the multiplication table?
 

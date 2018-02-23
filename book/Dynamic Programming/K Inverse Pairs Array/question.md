@@ -1,4 +1,5 @@
-
+## K Inverse Pairs Array  
+### 问题描述
 
 Given two integers `n` and `k`, find how many different arrays consist of numbers from `1` to `n` such that there are exactly `k` inverse pairs. 
 

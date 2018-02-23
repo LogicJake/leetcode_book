@@ -1,4 +1,5 @@
-
+## Reshape the Matrix  
+### 问题描述
 In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original data.
 
 

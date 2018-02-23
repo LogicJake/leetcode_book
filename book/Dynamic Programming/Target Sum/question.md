@@ -1,4 +1,5 @@
-
+## Target Sum  
+### 问题描述
 
 You are given a list of non-negative integers, a1, a2, ..., an, and a target, S. Now you have 2 symbols `+` and `-`. For each integer, you should choose one from `+` and `-` as its new symbol.
 

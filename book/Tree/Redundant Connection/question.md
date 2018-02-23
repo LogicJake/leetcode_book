@@ -1,4 +1,5 @@
-
+## Redundant Connection  
+### 问题描述
 
 In this problem, a tree is an **undirected** graph that is connected and has no cycles.
 

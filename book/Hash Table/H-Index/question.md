@@ -1,4 +1,5 @@
-
+## H-Index  
+### 问题描述
 
 Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher's h-index.
 

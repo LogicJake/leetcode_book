@@ -1,4 +1,5 @@
-
+## Number of Atoms  
+### 问题描述
 Given a chemical `formula` (given as a string), return the count of each atom.
 
 

@@ -1,4 +1,5 @@
-
+## Pow(x, n)  
+### 问题描述
 Implement [pow(*x*, *n*)](http://www.cplusplus.com/reference/valarray/pow/).
 
 

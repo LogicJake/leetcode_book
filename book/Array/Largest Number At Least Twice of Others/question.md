@@ -1,4 +1,5 @@
-
+## Largest Number At Least Twice of Others  
+### 问题描述
 In a given integer array `nums`, there is always exactly one largest element.
 
 Find whether the largest element in the array is at least twice as much as every other number in the array.

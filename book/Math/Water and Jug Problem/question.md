@@ -1,4 +1,5 @@
-
+## Water and Jug Problem  
+### 问题描述
 You are given two jugs with capacities *x* and *y* litres. There is an infinite amount of water supply available.
 You need to determine whether it is possible to measure exactly *z* litres using these two jugs.
 

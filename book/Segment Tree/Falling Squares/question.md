@@ -1,4 +1,5 @@
-
+## Falling Squares  
+### 问题描述
 On an infinite number line (x-axis), we drop given squares in the order they are given.
 
 The `i`-th square dropped (`positions[i] = (left, side_length)`) is a square with the left-most point being `positions[i][0]` and sidelength `positions[i][1]`.

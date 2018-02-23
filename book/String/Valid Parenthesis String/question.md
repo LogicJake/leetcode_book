@@ -1,4 +1,5 @@
-
+## Valid Parenthesis String  
+### 问题描述
 
 Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:
 <ol>

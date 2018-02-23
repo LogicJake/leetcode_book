@@ -1,4 +1,5 @@
-
+## Data Stream as Disjoint Intervals  
+### 问题描述
 Given a data stream input of non-negative integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, ..., summarize the numbers seen so far as a list of disjoint intervals.
 
 For example, suppose the integers from the data stream are 1, 3, 7, 2, 6, ..., then the summary will be:

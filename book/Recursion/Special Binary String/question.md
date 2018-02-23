@@ -1,4 +1,5 @@
-
+## Special Binary String  
+### 问题描述
 
 *Special* binary strings are binary strings with the following two properties:
 

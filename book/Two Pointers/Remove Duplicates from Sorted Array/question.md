@@ -1,4 +1,5 @@
-
+## Remove Duplicates from Sorted Array  
+### 问题描述
 
 Given a sorted array, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that each element appear only *once* and return the new length.
 

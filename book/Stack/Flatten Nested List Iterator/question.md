@@ -1,4 +1,5 @@
-
+## Flatten Nested List Iterator  
+### 问题描述
 Given a nested list of integers, implement an iterator to flatten it.
 
 Each element is either an integer, or a list -- whose elements may also be integers or other lists.

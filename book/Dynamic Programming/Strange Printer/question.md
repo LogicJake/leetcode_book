@@ -1,4 +1,5 @@
-
+## Strange Printer  
+### 问题描述
 
 There is a strange printer with the following two special requirements:
 

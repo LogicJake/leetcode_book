@@ -1,4 +1,5 @@
-
+## Remove Duplicates from Sorted Array II  
+### 问题描述
 
 Follow up for "Remove Duplicates":<br />
 What if duplicates are allowed at most *twice*?

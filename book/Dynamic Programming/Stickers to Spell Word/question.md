@@ -1,4 +1,5 @@
-
+## Stickers to Spell Word  
+### 问题描述
 
 We are given N different types of stickers.  Each sticker has a lowercase English word on it.
 

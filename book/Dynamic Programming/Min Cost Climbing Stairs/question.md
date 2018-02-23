@@ -1,4 +1,5 @@
-
+## Min Cost Climbing Stairs  
+### 问题描述
 
 On a staircase, the `i`-th step has some non-negative cost `cost[i]` assigned (0 indexed).
 

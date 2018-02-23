@@ -1,4 +1,5 @@
-
+## Zuma Game  
+### 问题描述
 Think about Zuma Game. You have a row of balls on the table, colored red(R), yellow(Y), blue(B), green(G), and white(W). You also have several balls in your hand.
 
 
@@ -29,7 +30,7 @@ Find the minimal balls you have to insert to remove all the balls on the table. 
 
 **Note:**<br>
 <ol>
-- You may assume that the initial row of balls on the table won��t have any 3 or more consecutive balls with the same color.
+- You may assume that the initial row of balls on the table won’t have any 3 or more consecutive balls with the same color.
 - The number of balls on the table won't exceed 20, and the string represents these balls is called "board" in the input.
 - The number of balls in your hand won't exceed 5, and the string represents these balls is called "hand" in the input.
 - Both input strings will be non-empty and only contain characters 'R','Y','B','G','W'.

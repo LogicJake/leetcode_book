@@ -1,4 +1,5 @@
-
+## Find Mode in Binary Search Tree  
+### 问题描述
 Given a binary search tree (BST) with duplicates, find all the [mode(s)](https://en.wikipedia.org/wiki/Mode_(statistics)) (the most frequently occurred element) in the given BST.
 
 

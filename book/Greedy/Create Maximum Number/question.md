@@ -1,4 +1,5 @@
-
+## Create Maximum Number  
+### 问题描述
 
     Given two arrays of length `m` and `n` with digits `0-9` representing two numbers.
     Create the maximum number of length `k <= m + n` from digits of the two. The relative order of the digits

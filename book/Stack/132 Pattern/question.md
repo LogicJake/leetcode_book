@@ -1,4 +1,5 @@
-
+## 132 Pattern  
+### 问题描述
 
 Given a sequence of n integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, a 132 pattern is a subsequence a<sub>**i**</sub>, a<sub>**j**</sub>, a<sub>**k**</sub> such
 that **i** < **j** < **k** and a<sub>**i**</sub> < a<sub>**k**</sub> < a<sub>**j**</sub>. Design an algorithm that takes a list of n numbers as input and checks whether there is a 132 pattern in the list.

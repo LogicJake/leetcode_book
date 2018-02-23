@@ -1,4 +1,5 @@
-
+## Range Module  
+### 问题描述
 A Range Module is a module that tracks ranges of numbers. Your task is to design and implement the following interfaces in an efficient manner.
 
 - `addRange(int left, int right)` Adds the half-open interval `[left, right)`, tracking every real number in that interval.  Adding an interval that partially overlaps with currently tracked numbers should add any numbers in the interval `[left, right)` that are not already tracked.

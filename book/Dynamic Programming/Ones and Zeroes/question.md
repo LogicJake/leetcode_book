@@ -1,4 +1,5 @@
-
+## Ones and Zeroes  
+### é—®é¢˜æè¿°
 In the computer world, use restricted resource you have to generate maximum benefit is what we always want to pursue.
 
 For now, suppose you are a dominator of **m** `0s` and **n** `1s` respectively. On the other hand, there is an array with strings consisting of only `0s` and `1s`.
@@ -19,7 +20,7 @@ Now your task is to find the maximum number of strings that you can form with gi
 **Input:** Array = {"10", "0001", "111001", "1", "0"}, m = 5, n = 3
 **Output:** 4
 
-**Explanation:** This are totally 4 strings can be formed by the using of 5 0s and 3 1s, which are ¡°10,¡±0001¡±,¡±1¡±,¡±0¡±
+**Explanation:** This are totally 4 strings can be formed by the using of 5 0s and 3 1s, which are â€œ10,â€0001â€,â€1â€,â€0â€
 </pre>
 
 

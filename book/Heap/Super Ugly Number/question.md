@@ -1,4 +1,5 @@
-
+## Super Ugly Number  
+### 问题描述
 
     Write a program to find the n<sup>th</sup> super ugly number.
 

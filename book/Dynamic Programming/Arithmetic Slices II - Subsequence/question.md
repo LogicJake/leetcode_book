@@ -1,4 +1,5 @@
-
+## Arithmetic Slices II - Subsequence  
+### 问题描述
 A sequence of numbers is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.
 
 For example, these are arithmetic sequences:

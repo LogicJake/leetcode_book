@@ -1,4 +1,5 @@
-
+## Guess Number Higher or Lower  
+### 问题描述
 We are playing the Guess Game. The game is as follows:<p> 
 
 <p>I pick a number from **1** to ***n***. You have to guess which number I picked.

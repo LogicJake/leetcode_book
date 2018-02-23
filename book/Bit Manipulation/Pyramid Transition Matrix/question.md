@@ -1,4 +1,5 @@
-
+## Pyramid Transition Matrix  
+### 问题描述
 
 We are stacking blocks to form a pyramid.  Each block has a color which is a one letter string, like `'Z'`.
 

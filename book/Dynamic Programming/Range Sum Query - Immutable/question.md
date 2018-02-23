@@ -1,4 +1,5 @@
-
+## Range Sum Query - Immutable  
+### 问题描述
 Given an integer array *nums*, find the sum of the elements between indices *i* and *j* (*i* &le; *j*), inclusive.
 
 **Example:**<br>

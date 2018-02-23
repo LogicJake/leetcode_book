@@ -1,4 +1,5 @@
-
+## Ugly Number  
+### 问题描述
 
 Write a program to check whether a given number is an ugly number.
 

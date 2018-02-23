@@ -1,4 +1,5 @@
-
+## LFU Cache  
+### 问题描述
 Design and implement a data structure for [Least Frequently Used (LFU)](https://en.wikipedia.org/wiki/Least_frequently_used) cache. It should support the following operations: `get` and `put`.
 
 

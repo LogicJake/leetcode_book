@@ -1,4 +1,5 @@
-
+## Swim in Rising Water  
+### 问题描述
 On an N x N `grid`, each square `grid[i][j]` represents the elevation at that point `(i,j)`.
 
 Now rain starts to fall. At time `t`, the depth of the water everywhere is `t`. You can swim from a square to another 4-directionally adjacent square if and only if the elevation of both squares individually are&nbsp;at most&nbsp;`t`. You can swim infinite distance in zero time. Of course, you must stay within the boundaries of the grid during your swim.

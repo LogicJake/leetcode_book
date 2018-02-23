@@ -1,4 +1,5 @@
-
+## Count Different Palindromic Subsequences  
+### 问题描述
 
 Given a string S, find the number of different non-empty palindromic subsequences in S, and **return that number modulo `10^9 + 7`.**
 

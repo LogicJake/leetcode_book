@@ -1,4 +1,5 @@
-
+## Reverse Pairs  
+### 问题描述
 Given an array `nums`, we call `(i, j)` an ***important reverse pair*** if `i &lt; j` and `nums[i] &gt; 2*nums[j]`.
 
 You need to return the number of important reverse pairs in the given array.

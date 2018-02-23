@@ -1,4 +1,5 @@
-
+## Count Numbers with Unique Digits  
+### 问题描述
 Given a **non-negative** integer n, count all numbers with unique digits, x, where 0 &le; x &lt; 10<sup>n</sup>.
 
 

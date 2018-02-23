@@ -1,4 +1,5 @@
-
+## Permutation in String  
+### 问题描述
 **Example 1:**<br />
 <pre>
 **Input:**s1 = "ab" s2 = "eidbaooo"

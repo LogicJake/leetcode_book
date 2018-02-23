@@ -1,4 +1,5 @@
-
+## Global and Local Inversions  
+### 问题描述
 We have some permutation `A` of `[0, 1, ..., N - 1]`, where `N` is the length of `A`.
 
 The number of (global) inversions is the number of `i &lt; j` with `0 &lt;= i &lt; j &lt; N` and `A[i] &gt; A[j]`.
