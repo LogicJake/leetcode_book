@@ -85,10 +85,14 @@ def get_question_detail(titleSlug):
 
 def generate(tag):
     res = question.get_question()
+    pwd = sys.path[0]
+    md_path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"SUMMARY.md"
+    f = open(md_path,"w",encoding="utf-8")
+    f.write("# Summary  \n* [介绍](README.md)\n* 分类")
     #根据tag生成文件夹
     for t in tag:
         name = t['name']
-        pwd = sys.path[0]
+        f.write("  \n   * "+name)
         path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name
         isExists = os.path.exists(path)
         if not isExists:            #生成各个tag的目录
@@ -100,11 +104,12 @@ def generate(tag):
                     isExists = os.path.exists(qpath)
                     if not isExists:  # 生成各个题目的目录
                         os.mkdir(qpath)
-                        print(r['question_slug'])
-                        md = get_question_detail(r['question_slug'])
-
-                        with open(qpath+os.path.sep+"question.md","w") as f:
-                            f.write(md)
+                    #print(r['question_title'])
+                    #md = "## "+r['question_title']+"  \n### "+"问题描述"+get_question_detail(r['question_slug'])
+                    f.write("  \n       * [" + r['question_title']+"](book/"+name+"/"+r['question_title']+"/question.md)")
+                    #with open(qpath+os.path.sep+"question.md","w",encoding='utf-8') as f:
+                    #    f.write(md)
+    f.close()
 
 if __name__ == "__main__":
     tag = tags.tags()
