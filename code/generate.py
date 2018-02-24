@@ -125,9 +125,9 @@ def generate(tag):
                     elif r['difficulty'] == 3:
                         level = "困难"
                     if r['paid_only'] == True:
-                        ft.write("| [{}]({}) :lock: | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip(),level))
+                        ft.write("| [{}]({}) :lock: | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md",level))
                     else:
-                        ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip(),level))
+                        ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md",level))
                     qpath = path+os.path.sep+r['question_title'].strip()
                     isExists = os.path.exists(qpath)
                     f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md)")
