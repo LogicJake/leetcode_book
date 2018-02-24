@@ -1,6 +1,8 @@
 # LeetCode题目集
 电子书在线地址：https://logicjake.gitbooks.io/leetcode/content/
 
+更新日期：2018年2月24号
+
 # 目录 
 * [介绍](README.md)
 * [分类](book/book.md)  

@@ -2,11 +2,11 @@
 import json
 import os
 import sys
-
 import requests
 import tags
 import question
 import time
+
 from tomd import Tomd
 
 def get_question_detail(titleSlug):
@@ -88,7 +88,6 @@ def get_question_detail(titleSlug):
         time.sleep(1)
         return get_question_detail(titleSlug)
 
-
 def generate(tag):
     res = question.get_question()
     pwd = sys.path[0]
@@ -102,15 +101,15 @@ def generate(tag):
     fp.write("|:---:|:---:|  \n")
     #根据tag生成文件夹
     for t in tag:
-        name = t['name']
+        name = t['name'].strip().lower().replace(" ","-")
 
-        f.write("  \n   * [{}]({})".format(name,"book/"+name.strip()+"/list.md"))
+        f.write("  \n   * [{}]({})".format(t['name'],"book/"+name.strip()+"/list.md"))
         path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name
         isExists = os.path.exists(path)
-        fp.write("| [{}]({})| {} |  \n".format(name,name.strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/list.md",t['questions'].__len__()))
+        fp.write("| [{}]({})| {} |  \n".format(t['name'],name+"/list.md",t['questions'].__len__()))
         if not isExists:            #生成各个tag的目录
             os.mkdir(path)
-        ft = open(os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name.strip()+os.path.sep+"list.md","w",encoding="utf-8")
+        ft = open(os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name+os.path.sep+"list.md","w",encoding="utf-8")
         ft.write("## 题目列表  \n")
         ft.write("| 题目 | 难度 |  \n")
         ft.write("|:---:|:---:|  \n")
@@ -126,19 +125,19 @@ def generate(tag):
                     elif r['difficulty'] == 3:
                         level = "困难"
                     if r['paid_only'] == True:
-                        ft.write("| [{}]({}) :lock: | {} |   \n".format(r['question_title'],r['question_title'].strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/question.md",level))
+                        ft.write("| [{}]({}) :lock: | {} |   \n".format(r['question_title'],r['question_slug'].strip()+"/question.md",level))
                     else:
-                        ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],r['question_title'].strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/question.md",level))
-                    qpath = path+os.path.sep+r['question_title'].strip()
+                        ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],r['question_slug'].strip()+"/question.md",level))
+                    qpath = path+os.path.sep+r['question_slug'].strip()
                     isExists = os.path.exists(qpath)
-                    f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md)")
+                    f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name+"/"+r['question_slug'].strip()+"/question.md)")
                     if not isExists:  # 生成各个题目的目录
                         os.mkdir(qpath)
                     if r['paid_only'] != True:
-                        pass
-                        # md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])+"  \n### 问题描述" + get_question_detail(r['question_slug'])
-                        # with open(qpath.strip()+os.path.sep+"question.md","w",encoding='utf-8') as ff:
-                        #   ff.write(md)
+                        #pass
+                        md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])+"  \n### 问题描述" + get_question_detail(r['question_slug'])
+                        with open(qpath.strip()+os.path.sep+"question.md","w",encoding='utf-8') as ff:
+                          ff.write(md)
                     else:
                         md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])
                         with open(qpath.strip() + os.path.sep + "question.md", "w", encoding='utf-8') as ff:
