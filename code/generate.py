@@ -111,7 +111,7 @@ def generate(tag):
         f.write("  \n   * [{}]({})".format(name,"book/"+name+"/list.md"))
         path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name
         isExists = os.path.exists(path)
-        fp.write("| [{}]({})| {} |  \n".format(name,"book/"+name.strip(),t['questions'].__len__()))
+        fp.write("| [{}]({})| {} |  \n".format(name,"book/"+name.strip()+"/list.md",t['questions'].__len__()))
         if not isExists:            #生成各个tag的目录
             os.mkdir(path)
         for id in t['questions']:
