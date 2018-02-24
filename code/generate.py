@@ -108,7 +108,7 @@ def generate(tag):
         ft.write("| 题目 | 难度 |  \n")
         ft.write("|:---:|:---:|  \n")
 
-        f.write("  \n   * [{}]({})".format(name,"book/"+name+"/list.md"))
+        f.write("  \n   * [{}]({})".format(name,"book/"+name.strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/list.md"))
         path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name
         isExists = os.path.exists(path)
         fp.write("| [{}]({})| {} |  \n".format(name,name.strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/list.md",t['questions'].__len__()))
@@ -130,7 +130,7 @@ def generate(tag):
                         ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],r['question_title'].strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/question.md",level))
                     qpath = path+os.path.sep+r['question_title'].strip()
                     isExists = os.path.exists(qpath)
-                    f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md)")
+                    f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/"+r['question_title'].strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/question.md)")
                     if not isExists:  # 生成各个题目的目录
                         os.mkdir(qpath)
                     if r['paid_only'] != True:
