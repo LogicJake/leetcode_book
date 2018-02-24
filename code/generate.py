@@ -94,26 +94,56 @@ def generate(tag):
     pwd = sys.path[0]
     md_path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"SUMMARY.md"
     f = open(md_path,"w",encoding="utf-8")
-    f.write("# Summary  \n* [介绍](README.md)\n* 分类")
+    f.write("# Summary  \n* [介绍](README.md)\n* [分类](book/book.md)")
+
+    fp = open(os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+"book.md","w",encoding="utf-8")
+    fp.write("## 分类列表  \n")
+    fp.write("| 分类名称 | 个数 | \n")
+    fp.write("|:---:|:---:|  \n")
     #根据tag生成文件夹
     for t in tag:
         name = t['name']
-        f.write("  \n   * "+name)
+        ft = open(os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name.strip()+os.path.sep+"list.md","w",encoding="utf-8")
+        ft.write("## 题目列表  \n")
+        ft.write("| 题目 | 难度 |  \n")
+        ft.write("|:---:|:---:|  \n")
+
+        f.write("  \n   * [{}]({})".format(name,"book/"+name+"/list.md"))
         path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name
         isExists = os.path.exists(path)
+        fp.write("| [{}]({})| {} |  \n".format(name,"book/"+name.strip(),t['questions'].__len__()))
         if not isExists:            #生成各个tag的目录
             os.mkdir(path)
         for id in t['questions']:
             for r in res:
-                if r['question_id'] == id and r['paid_only'] != True:
-                    qpath = path+os.path.sep+r['question_title']
+                if r['question_id'] == id:
+                    level = ""
+                    if r['difficulty'] == 1:
+                        level = "简单"
+                    elif r['difficulty'] == 2:
+                        level = "中等"
+                    elif r['difficulty'] == 3:
+                        level = "困难"
+                    if r['paid_only'] == True:
+                        ft.write("| [{}]({}) :lock: | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip(),level))
+                    else:
+                        ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip(),level))
+                    qpath = path+os.path.sep+r['question_title'].strip()
                     isExists = os.path.exists(qpath)
-                    f.write("  \n       * [" + r['question_title']+"](book/"+name+"/"+r['question_title']+"/question.md)")
+                    f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md)")
                     if not isExists:  # 生成各个题目的目录
                         os.mkdir(qpath)
-                        md = "## "+r['question_title']+"  \n### "+"问题描述"+get_question_detail(r['question_slug'])
-                        with open(qpath.strip()+os.path.sep+"question.md","w",encoding='utf-8') as ff:
+                    if r['paid_only'] != True:
+                        pass
+                        #md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])+"  \n### 问题描述" + get_question_detail(r['question_slug'])
+                        # with open(qpath.strip()+os.path.sep+"question.md","w",encoding='utf-8') as ff:
+                        #   ff.write(md)
+                    else:
+                        md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])
+                        with open(qpath.strip() + os.path.sep + "question.md", "w", encoding='utf-8') as ff:
                             ff.write(md)
+        ft.close()
+    fp.close()
     f.close()
 
 if __name__ == "__main__":
