@@ -1,7 +1,7 @@
 ## 题目列表  
 | 题目 | 难度 |  
 |:---:|:---:|  
-| [String to Integer (atoi)](String%20to%20Integer%20(atoi)/question.md) | 中等 |   
+| [String to Integer (atoi)](String%20to%20Integer%20%28atoi%29/question.md) | 中等 |   
 | [Palindrome Number](Palindrome%20Number/question.md) | 简单 |   
 | [Divide Two Integers](Divide%20Two%20Integers/question.md) | 中等 |   
 | [Valid Number](Valid%20Number/question.md) | 困难 |   
@@ -25,9 +25,9 @@
 | [Self Crossing](Self%20Crossing/question.md) | 困难 |   
 | [Integer Break](Integer%20Break/question.md) | 中等 |   
 | [Power of Two](Power%20of%20Two/question.md) | 简单 |   
-| [Pow(x, n)](Pow(x,%20n)/question.md) | 中等 |   
+| [Pow(x, n)](Pow%28x,%20n%29/question.md) | 中等 |   
 | [Reverse Integer](Reverse%20Integer/question.md) | 简单 |   
-| [Sqrt(x)](Sqrt(x)/question.md) | 简单 |   
+| [Sqrt(x)](Sqrt%28x%29/question.md) | 简单 |   
 | [Excel Sheet Column Number](Excel%20Sheet%20Column%20Number/question.md) | 简单 |   
 | [Integer to English Words](Integer%20to%20English%20Words/question.md) | 困难 |   
 | [Missing Number](Missing%20Number/question.md) | 简单 |   

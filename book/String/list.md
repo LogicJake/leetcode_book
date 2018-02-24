@@ -3,7 +3,7 @@
 |:---:|:---:|  
 | [Longest Palindromic Substring](Longest%20Palindromic%20Substring/question.md) | 中等 |   
 | [ZigZag Conversion](ZigZag%20Conversion/question.md) | 中等 |   
-| [String to Integer (atoi)](String%20to%20Integer%20(atoi)/question.md) | 中等 |   
+| [String to Integer (atoi)](String%20to%20Integer%20%28atoi%29/question.md) | 中等 |   
 | [Substring with Concatenation of All Words](Substring%20with%20Concatenation%20of%20All%20Words/question.md) | 困难 |   
 | [Longest Valid Parentheses](Longest%20Valid%20Parentheses/question.md) | 困难 |   
 | [Count and Say](Count%20and%20Say/question.md) | 简单 |   
@@ -40,7 +40,7 @@
 | [Longest Common Prefix](Longest%20Common%20Prefix/question.md) | 简单 |   
 | [Word Ladder II](Word%20Ladder%20II/question.md) | 困难 |   
 | [Reverse Words in a String](Reverse%20Words%20in%20a%20String/question.md) | 中等 |   
-| [Implement strStr()](Implement%20strStr()/question.md) | 简单 |   
+| [Implement strStr()](Implement%20strStr%28%29/question.md) | 简单 |   
 | [Shortest Palindrome](Shortest%20Palindrome/question.md) | 困难 |   
 | [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters/question.md) | 中等 |   
 | [Letter Combinations of a Phone Number](Letter%20Combinations%20of%20a%20Phone%20Number/question.md) | 中等 |   

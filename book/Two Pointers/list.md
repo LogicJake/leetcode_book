@@ -23,7 +23,7 @@
 | [Trapping Rain Water](Trapping%20Rain%20Water/question.md) | 困难 |   
 | [Linked List Cycle](Linked%20List%20Cycle/question.md) | 简单 |   
 | [Sort Colors](Sort%20Colors/question.md) | 中等 |   
-| [Implement strStr()](Implement%20strStr()/question.md) | 简单 |   
+| [Implement strStr()](Implement%20strStr%28%29/question.md) | 简单 |   
 | [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters/question.md) | 中等 |   
 | [3Sum](3Sum/question.md) | 中等 |   
 | [Find the Duplicate Number](Find%20the%20Duplicate%20Number/question.md) | 中等 |   

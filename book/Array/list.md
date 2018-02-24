@@ -73,8 +73,8 @@
 | [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays/question.md) | 困难 |   
 | [Find Peak Element](Find%20Peak%20Element/question.md) | 中等 |   
 | [Range Addition](Range%20Addition/question.md) :lock: | 中等 |   
-| [Insert Delete GetRandom O(1)](Insert%20Delete%20GetRandom%20O(1)/question.md) | 中等 |   
-| [Insert Delete GetRandom O(1) - Duplicates allowed](Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/question.md) | 困难 |   
+| [Insert Delete GetRandom O(1)](Insert%20Delete%20GetRandom%20O%281%29/question.md) | 中等 |   
+| [Insert Delete GetRandom O(1) - Duplicates allowed](Insert%20Delete%20GetRandom%20O%281%29%20-%20Duplicates%20allowed/question.md) | 困难 |   
 | [Combination Sum II](Combination%20Sum%20II/question.md) | 中等 |   
 | [Game of Life](Game%20of%20Life/question.md) | 中等 |   
 | [Third Maximum Number](Third%20Maximum%20Number/question.md) | 简单 |   

@@ -41,8 +41,8 @@
 | [Line Reflection](Line%20Reflection/question.md) :lock: | 中等 |   
 | [Rearrange String k Distance Apart](Rearrange%20String%20k%20Distance%20Apart/question.md) :lock: | 困难 |   
 | [Logger Rate Limiter](Logger%20Rate%20Limiter/question.md) :lock: | 简单 |   
-| [Insert Delete GetRandom O(1)](Insert%20Delete%20GetRandom%20O(1)/question.md) | 中等 |   
-| [Insert Delete GetRandom O(1) - Duplicates allowed](Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/question.md) | 困难 |   
+| [Insert Delete GetRandom O(1)](Insert%20Delete%20GetRandom%20O%281%29/question.md) | 中等 |   
+| [Insert Delete GetRandom O(1) - Duplicates allowed](Insert%20Delete%20GetRandom%20O%281%29%20-%20Duplicates%20allowed/question.md) | 困难 |   
 | [Find the Difference](Find%20the%20Difference/question.md) | 简单 |   
 | [Sudoku Solver](Sudoku%20Solver/question.md) | 困难 |   
 | [Longest Palindrome](Longest%20Palindrome/question.md) | 简单 |   

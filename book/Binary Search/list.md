@@ -15,9 +15,9 @@
 | [First Bad Version](First%20Bad%20Version/question.md) | 简单 |   
 | [Longest Increasing Subsequence](Longest%20Increasing%20Subsequence/question.md) | 中等 |   
 | [Smallest Rectangle Enclosing Black Pixels](Smallest%20Rectangle%20Enclosing%20Black%20Pixels/question.md) :lock: | 困难 |   
-| [Pow(x, n)](Pow(x,%20n)/question.md) | 中等 |   
+| [Pow(x, n)](Pow%28x,%20n%29/question.md) | 中等 |   
 | [Search for a Range](Search%20for%20a%20Range/question.md) | 中等 |   
-| [Sqrt(x)](Sqrt(x)/question.md) | 简单 |   
+| [Sqrt(x)](Sqrt%28x%29/question.md) | 简单 |   
 | [Search a 2D Matrix II](Search%20a%202D%20Matrix%20II/question.md) | 中等 |   
 | [Search in Rotated Sorted Array](Search%20in%20Rotated%20Sorted%20Array/question.md) | 中等 |   
 | [Dungeon Game](Dungeon%20Game/question.md) | 困难 |   
