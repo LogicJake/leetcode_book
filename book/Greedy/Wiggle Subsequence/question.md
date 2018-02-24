@@ -1,4 +1,6 @@
 ## Wiggle Subsequence  
+### 链接  
+https://leetcode.com/problems/wiggle-subsequence/description/  
 ### 问题描述
 A sequence of numbers is called a **wiggle sequence** if the differences between successive numbers strictly alternate between positive and negative. The first difference (if one exists) may be either positive or negative. A sequence with fewer than two elements is trivially a wiggle sequence. 
 

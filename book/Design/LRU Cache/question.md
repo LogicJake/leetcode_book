@@ -1,4 +1,6 @@
 ## LRU Cache  
+### 链接  
+https://leetcode.com/problems/lru-cache/description/  
 ### 问题描述
 
 Design and implement a data structure for [Least Recently Used (LRU) cache](https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU). It should support the following operations: `get` and `put`.

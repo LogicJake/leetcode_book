@@ -1,4 +1,6 @@
 ## Remove Element  
+### 链接  
+https://leetcode.com/problems/remove-element/description/  
 ### 问题描述
 Given an array and a value, remove all instances of that value [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) and return the new length.
 

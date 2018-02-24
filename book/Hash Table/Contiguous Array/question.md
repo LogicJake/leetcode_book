@@ -1,4 +1,6 @@
 ## Contiguous Array  
+### 链接  
+https://leetcode.com/problems/contiguous-array/description/  
 ### 问题描述
 Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1. 
 

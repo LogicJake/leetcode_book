@@ -1,4 +1,6 @@
 ## Gas Station  
+### 链接  
+https://leetcode.com/problems/gas-station/description/  
 ### 问题描述
 
 There are *N* gas stations along a circular route, where the amount of gas at station *i* is `gas[i]`.

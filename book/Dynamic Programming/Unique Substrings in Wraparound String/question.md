@@ -1,4 +1,6 @@
 ## Unique Substrings in Wraparound String  
+### 链接  
+https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/  
 ### 问题描述
 Consider the string `s` to be the infinite wraparound string of "abcdefghijklmnopqrstuvwxyz", so `s` will look like this: "...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....".
 

@@ -1,4 +1,6 @@
 ## Same Tree  
+### 链接  
+https://leetcode.com/problems/same-tree/description/  
 ### 问题描述
 
 Given two binary trees, write a function to check if they are the same or not.

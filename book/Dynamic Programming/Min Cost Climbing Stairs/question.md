@@ -1,4 +1,6 @@
 ## Min Cost Climbing Stairs  
+### 链接  
+https://leetcode.com/problems/min-cost-climbing-stairs/description/  
 ### 问题描述
 
 On a staircase, the `i`-th step has some non-negative cost `cost[i]` assigned (0 indexed).

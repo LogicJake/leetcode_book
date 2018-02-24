@@ -1,4 +1,6 @@
 ## Non-negative Integers without Consecutive Ones  
+### 链接  
+https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/  
 ### 问题描述
 Given a positive integer n, find the number of **non-negative** integers less than or equal to n, whose binary representations do NOT contain **consecutive ones**.
 

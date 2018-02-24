@@ -1,4 +1,6 @@
 ## Find Minimum in Rotated Sorted Array II  
+### 链接  
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/  
 ### 问题描述
 > 
 <p>*Follow up* for "Find Minimum in Rotated Sorted Array":<br />

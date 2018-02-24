@@ -1,4 +1,6 @@
 ## Find Pivot Index  
+### 链接  
+https://leetcode.com/problems/find-pivot-index/description/  
 ### 问题描述
 Given an array of integers `nums`, write a method that returns the "pivot" index of this array.
 

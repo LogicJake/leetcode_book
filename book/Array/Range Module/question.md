@@ -1,4 +1,6 @@
 ## Range Module  
+### 链接  
+https://leetcode.com/problems/range-module/description/  
 ### 问题描述
 A Range Module is a module that tracks ranges of numbers. Your task is to design and implement the following interfaces in an efficient manner.
 

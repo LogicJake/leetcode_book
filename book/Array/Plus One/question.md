@@ -1,4 +1,6 @@
 ## Plus One  
+### 链接  
+https://leetcode.com/problems/plus-one/description/  
 ### 问题描述
 Given a non-negative integer represented as a **non-empty** array of digits, plus one to the integer.
 

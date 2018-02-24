@@ -1,4 +1,6 @@
 ## Can Place Flowers  
+### 链接  
+https://leetcode.com/problems/can-place-flowers/description/  
 ### 问题描述
 Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot be planted in adjacent plots - they would compete for water and both would die.
 

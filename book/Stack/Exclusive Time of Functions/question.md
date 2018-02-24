@@ -1,4 +1,6 @@
 ## Exclusive Time of Functions  
+### 链接  
+https://leetcode.com/problems/exclusive-time-of-functions/description/  
 ### 问题描述
 Given the running logs of **n** functions that are executed in a nonpreemptive single threaded CPU, find the exclusive time of these functions. 
 

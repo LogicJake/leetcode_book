@@ -1,4 +1,6 @@
 ## All O`one Data Structure  
+### 链接  
+https://leetcode.com/problems/all-oone-data-structure/description/  
 ### 问题描述
 Implement a data structure supporting the following operations:
 

@@ -1,4 +1,6 @@
 ## Ones and Zeroes  
+### 链接  
+https://leetcode.com/problems/ones-and-zeroes/description/  
 ### 问题描述
 In the computer world, use restricted resource you have to generate maximum benefit is what we always want to pursue.
 

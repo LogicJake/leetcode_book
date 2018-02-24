@@ -1,4 +1,6 @@
 ## Redundant Connection  
+### 链接  
+https://leetcode.com/problems/redundant-connection/description/  
 ### 问题描述
 
 In this problem, a tree is an **undirected** graph that is connected and has no cycles.

@@ -1,4 +1,6 @@
 ## Minimum Height Trees  
+### 链接  
+https://leetcode.com/problems/minimum-height-trees/description/  
 ### 问题描述
 
     For a undirected graph with tree characteristics, we can choose any node as the root. The result graph is then a rooted tree. Among all possible rooted trees, those with minimum height are called minimum height trees (MHTs).

@@ -1,4 +1,6 @@
 ## Self Crossing  
+### 链接  
+https://leetcode.com/problems/self-crossing/description/  
 ### 问题描述
 
     You are given an array *x* of `n` positive numbers. You start at point `(0,0)` and moves `x[0]` metres to the north, then `x[1]` metres to the west,

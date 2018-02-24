@@ -1,4 +1,6 @@
 ## Self Dividing Numbers  
+### 链接  
+https://leetcode.com/problems/self-dividing-numbers/description/  
 ### 问题描述
 
 A *self-dividing number* is a number that is divisible by every digit it contains.

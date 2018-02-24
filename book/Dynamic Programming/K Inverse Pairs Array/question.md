@@ -1,4 +1,6 @@
 ## K Inverse Pairs Array  
+### 链接  
+https://leetcode.com/problems/k-inverse-pairs-array/description/  
 ### 问题描述
 
 Given two integers `n` and `k`, find how many different arrays consist of numbers from `1` to `n` such that there are exactly `k` inverse pairs. 

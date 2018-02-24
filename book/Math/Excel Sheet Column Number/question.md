@@ -1,4 +1,6 @@
 ## Excel Sheet Column Number  
+### 链接  
+https://leetcode.com/problems/excel-sheet-column-number/description/  
 ### 问题描述
 Related to question [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 

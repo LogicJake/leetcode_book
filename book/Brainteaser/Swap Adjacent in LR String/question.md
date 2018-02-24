@@ -1,4 +1,6 @@
 ## Swap Adjacent in LR String  
+### 链接  
+https://leetcode.com/problems/swap-adjacent-in-lr-string/description/  
 ### 问题描述
 In a string composed of `&#39;L&#39;`, `&#39;R&#39;`, and `&#39;X&#39;` characters, like `&quot;RXXLRXRXL&quot;`, a move consists of either replacing one occurrence of `&quot;XL&quot;` with `&quot;LX&quot;`, or replacing one occurrence of `&quot;RX&quot;` with `&quot;XR&quot;`. Given the starting string `start` and the ending string `end`, return `True` if and only if there exists a sequence of moves to transform one string to the other.
 

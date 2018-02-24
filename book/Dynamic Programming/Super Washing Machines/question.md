@@ -1,4 +1,6 @@
 ## Super Washing Machines  
+### 链接  
+https://leetcode.com/problems/super-washing-machines/description/  
 ### 问题描述
 You have **n** super washing machines on a line. Initially, each washing machine has some dresses or is empty. 
 

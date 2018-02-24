@@ -1,4 +1,6 @@
 ## Happy Number  
+### 链接  
+https://leetcode.com/problems/happy-number/description/  
 ### 问题描述
 Write an algorithm to determine if a number is "happy".
 

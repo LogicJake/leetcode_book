@@ -1,4 +1,6 @@
 ## Ugly Number II  
+### 链接  
+https://leetcode.com/problems/ugly-number-ii/description/  
 ### 问题描述
 
 Write a program to find the `n`-th ugly number.

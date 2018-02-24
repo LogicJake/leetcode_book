@@ -1,4 +1,6 @@
 ## Power of Four  
+### 链接  
+https://leetcode.com/problems/power-of-four/description/  
 ### 问题描述
 
 Given an integer (signed 32 bits), write a function to check whether it is a power of 4.

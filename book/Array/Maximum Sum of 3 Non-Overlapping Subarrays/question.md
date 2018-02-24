@@ -1,4 +1,6 @@
 ## Maximum Sum of 3 Non-Overlapping Subarrays  
+### 链接  
+https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/  
 ### 问题描述
 
 In a given array `nums` of positive integers, find three non-overlapping subarrays with maximum sum.

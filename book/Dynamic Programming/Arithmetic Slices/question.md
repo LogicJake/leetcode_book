@@ -1,4 +1,6 @@
 ## Arithmetic Slices  
+### 链接  
+https://leetcode.com/problems/arithmetic-slices/description/  
 ### 问题描述
 A sequence of number is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.
 

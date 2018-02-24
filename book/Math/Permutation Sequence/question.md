@@ -1,4 +1,6 @@
 ## Permutation Sequence  
+### 链接  
+https://leetcode.com/problems/permutation-sequence/description/  
 ### 问题描述
 The set `[1,2,3,&#8230;,*n*]` contains a total of *n*! unique permutations.
 

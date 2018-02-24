@@ -1,4 +1,6 @@
 ## Sqrt(x)  
+### 链接  
+https://leetcode.com/problems/sqrtx/description/  
 ### 问题描述
 Implement `int sqrt(int x)`.
 

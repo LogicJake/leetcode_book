@@ -1,4 +1,6 @@
 ## Delete Operation for Two Strings  
+### 链接  
+https://leetcode.com/problems/delete-operation-for-two-strings/description/  
 ### 问题描述
 
 Given two words *word1* and *word2*, find the minimum number of steps required to make *word1* and *word2* the same, where in each step you can delete one character in either string.

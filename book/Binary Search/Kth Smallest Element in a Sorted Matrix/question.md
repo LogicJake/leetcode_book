@@ -1,4 +1,6 @@
 ## Kth Smallest Element in a Sorted Matrix  
+### 链接  
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/  
 ### 问题描述
 Given a *n* x *n* matrix where each of the rows and columns are sorted in ascending order, find the kth smallest element in the matrix.
 

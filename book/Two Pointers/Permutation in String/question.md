@@ -1,4 +1,6 @@
 ## Permutation in String  
+### 链接  
+https://leetcode.com/problems/permutation-in-string/description/  
 ### 问题描述
 **Example 1:**<br />
 <pre>

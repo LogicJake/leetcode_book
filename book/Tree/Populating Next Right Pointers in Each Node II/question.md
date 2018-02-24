@@ -1,4 +1,6 @@
 ## Populating Next Right Pointers in Each Node II  
+### 链接  
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/  
 ### 问题描述
 Follow up for problem "*Populating Next Right Pointers in Each Node*".
 

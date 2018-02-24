@@ -1,4 +1,6 @@
 ## Search for a Range  
+### 链接  
+https://leetcode.com/problems/search-for-a-range/description/  
 ### 问题描述
 Given an array of integers sorted in ascending order, find the starting and ending position of a given target value.
 

@@ -1,4 +1,6 @@
 ## Pow(x, n)  
+### 链接  
+https://leetcode.com/problems/powx-n/description/  
 ### 问题描述
 Implement [pow(*x*, *n*)](http://www.cplusplus.com/reference/valarray/pow/).
 

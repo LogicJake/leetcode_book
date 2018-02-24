@@ -1,4 +1,6 @@
 ## Find the Difference  
+### 链接  
+https://leetcode.com/problems/find-the-difference/description/  
 ### 问题描述
 
 Given two strings ***s*** and ***t*** which consist of only lowercase letters.

@@ -1,4 +1,6 @@
 ## Add and Search Word - Data structure design  
+### 链接  
+https://leetcode.com/problems/add-and-search-word-data-structure-design/description/  
 ### 问题描述
 
 Design a data structure that supports the following two operations:

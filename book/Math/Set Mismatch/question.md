@@ -1,4 +1,6 @@
 ## Set Mismatch  
+### 链接  
+https://leetcode.com/problems/set-mismatch/description/  
 ### 问题描述
 
 The set `S` originally contains numbers from 1 to `n`. But unfortunately, due to the data error, one of the numbers in the set got duplicated to **another** number in the set, which results in repetition of one number and loss of another number. 

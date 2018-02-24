@@ -1,4 +1,6 @@
 ## Longest Continuous Increasing Subsequence  
+### 链接  
+https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/  
 ### 问题描述
 
 Given an unsorted array of integers, find the length of longest `continuous` increasing subsequence (subarray).

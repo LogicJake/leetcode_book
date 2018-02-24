@@ -1,4 +1,6 @@
 ## Minimum Index Sum of Two Lists  
+### 链接  
+https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/  
 ### 问题描述
 
 Suppose Andy and Doris want to choose a restaurant for dinner, and they both have a list of favorite restaurants represented by strings. 

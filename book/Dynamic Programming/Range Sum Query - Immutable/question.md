@@ -1,4 +1,6 @@
 ## Range Sum Query - Immutable  
+### 链接  
+https://leetcode.com/problems/range-sum-query-immutable/description/  
 ### 问题描述
 Given an integer array *nums*, find the sum of the elements between indices *i* and *j* (*i* &le; *j*), inclusive.
 

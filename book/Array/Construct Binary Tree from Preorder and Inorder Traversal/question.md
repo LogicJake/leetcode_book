@@ -1,4 +1,6 @@
 ## Construct Binary Tree from Preorder and Inorder Traversal  
+### 链接  
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/  
 ### 问题描述
 Given preorder and inorder traversal of a tree, construct the binary tree.
 

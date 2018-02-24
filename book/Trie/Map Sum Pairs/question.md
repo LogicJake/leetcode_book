@@ -1,4 +1,6 @@
 ## Map Sum Pairs  
+### 链接  
+https://leetcode.com/problems/map-sum-pairs/description/  
 ### 问题描述
 
 Implement a MapSum class with `insert`, and `sum` methods.

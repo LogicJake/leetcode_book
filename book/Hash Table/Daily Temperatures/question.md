@@ -1,4 +1,6 @@
 ## Daily Temperatures  
+### 链接  
+https://leetcode.com/problems/daily-temperatures/description/  
 ### 问题描述
 
 Given a list of daily `temperatures`, produce a list that, for each day in the input, tells you how many days you would have to wait until a warmer temperature.  If there is no future day for which this is possible, put `0` instead.

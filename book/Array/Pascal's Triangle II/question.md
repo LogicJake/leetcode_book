@@ -1,4 +1,6 @@
 ## Pascal's Triangle II  
+### 链接  
+https://leetcode.com/problems/pascals-triangle-ii/description/  
 ### 问题描述
 Given an index *k*, return the *k*<sup>th</sup> row of the Pascal's triangle.
 

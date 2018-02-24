@@ -1,4 +1,6 @@
 ## Binary Number with Alternating Bits  
+### 链接  
+https://leetcode.com/problems/binary-number-with-alternating-bits/description/  
 ### 问题描述
 Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.
 

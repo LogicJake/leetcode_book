@@ -1,4 +1,6 @@
 ## String Compression  
+### 链接  
+https://leetcode.com/problems/string-compression/description/  
 ### 问题描述
 Given an array of characters, compress it [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm).
 

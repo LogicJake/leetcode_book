@@ -1,4 +1,6 @@
 ## Subarray Product Less Than K  
+### 链接  
+https://leetcode.com/problems/subarray-product-less-than-k/description/  
 ### 问题描述
 Your are given an array of positive integers `nums`.
 

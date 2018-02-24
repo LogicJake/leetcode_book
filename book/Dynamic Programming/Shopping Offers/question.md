@@ -1,4 +1,6 @@
 ## Shopping Offers  
+### 链接  
+https://leetcode.com/problems/shopping-offers/description/  
 ### 问题描述
 
 In LeetCode Store, there are some kinds of items to sell. Each item has a price.

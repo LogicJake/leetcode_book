@@ -1,4 +1,6 @@
 ## Smallest Good Base  
+### 链接  
+https://leetcode.com/problems/smallest-good-base/description/  
 ### 问题描述
 For an integer n, we call k>=2 a ***good base*** of n, if all digits of n base k are 1.
 

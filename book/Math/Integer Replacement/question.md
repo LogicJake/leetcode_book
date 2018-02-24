@@ -1,4 +1,6 @@
 ## Integer Replacement  
+### 链接  
+https://leetcode.com/problems/integer-replacement/description/  
 ### 问题描述
 
 Given a positive integer *n* and you can do operations as follow:

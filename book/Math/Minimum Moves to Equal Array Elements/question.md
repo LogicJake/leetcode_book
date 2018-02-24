@@ -1,4 +1,6 @@
 ## Minimum Moves to Equal Array Elements  
+### 链接  
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/  
 ### 问题描述
 Given a **non-empty** integer array of size *n*, find the minimum number of moves required to make all array elements equal, where a move is incrementing *n* - 1 elements by 1.
 

@@ -1,4 +1,6 @@
 ## Combination Sum  
+### 链接  
+https://leetcode.com/problems/combination-sum/description/  
 ### 问题描述
 
 Given a **set** of candidate numbers (***C***) **(without duplicates)** and a target number (***T***), find all unique combinations in ***C*** where the candidate numbers sums to ***T***. 

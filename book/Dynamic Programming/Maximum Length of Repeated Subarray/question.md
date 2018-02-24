@@ -1,4 +1,6 @@
 ## Maximum Length of Repeated Subarray  
+### 链接  
+https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/  
 ### 问题描述
 Given two integer arrays `A` and `B`, return the maximum length of an subarray that appears in both arrays.
 

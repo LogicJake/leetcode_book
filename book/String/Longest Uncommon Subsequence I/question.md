@@ -1,4 +1,6 @@
 ## Longest Uncommon Subsequence I   
+### 链接  
+https://leetcode.com/problems/longest-uncommon-subsequence-i/description/  
 ### 问题描述
 
 Given a group of two strings, you need to find the longest uncommon subsequence of this group of two strings.

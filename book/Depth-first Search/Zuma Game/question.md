@@ -1,4 +1,6 @@
 ## Zuma Game  
+### 链接  
+https://leetcode.com/problems/zuma-game/description/  
 ### 问题描述
 Think about Zuma Game. You have a row of balls on the table, colored red(R), yellow(Y), blue(B), green(G), and white(W). You also have several balls in your hand.
 

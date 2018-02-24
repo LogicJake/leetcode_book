@@ -1,4 +1,6 @@
 ## Valid Sudoku  
+### 链接  
+https://leetcode.com/problems/valid-sudoku/description/  
 ### 问题描述
 Determine if a Sudoku is valid, according to: [Sudoku Puzzles - The Rules](http://sudoku.com.au/TheRules.aspx).
 

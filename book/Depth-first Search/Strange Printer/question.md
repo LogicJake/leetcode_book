@@ -1,4 +1,6 @@
 ## Strange Printer  
+### 链接  
+https://leetcode.com/problems/strange-printer/description/  
 ### 问题描述
 
 There is a strange printer with the following two special requirements:

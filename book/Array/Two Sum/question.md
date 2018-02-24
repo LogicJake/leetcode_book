@@ -1,4 +1,6 @@
 ## Two Sum  
+### 链接  
+https://leetcode.com/problems/two-sum/description/  
 ### 问题描述
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 

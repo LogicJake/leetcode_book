@@ -1,4 +1,6 @@
 ## Intersection of Two Arrays II  
+### 链接  
+https://leetcode.com/problems/intersection-of-two-arrays-ii/description/  
 ### 问题描述
 
 Given two arrays, write a function to compute their intersection.

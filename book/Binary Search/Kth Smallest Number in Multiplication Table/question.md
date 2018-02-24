@@ -1,4 +1,6 @@
 ## Kth Smallest Number in Multiplication Table  
+### 链接  
+https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/  
 ### 问题描述
 
 Nearly every one have used the [Multiplication Table](https://en.wikipedia.org/wiki/Multiplication_table). But could you find out the `k-th` smallest number quickly from the multiplication table?

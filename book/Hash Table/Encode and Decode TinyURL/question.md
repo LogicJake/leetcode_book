@@ -1,4 +1,6 @@
 ## Encode and Decode TinyURL  
+### 链接  
+https://leetcode.com/problems/encode-and-decode-tinyurl/description/  
 ### 问题描述
 > Note: This is a companion problem to the [System Design](https://leetcode.com/problemset/system-design/) problem: [Design TinyURL](https://leetcode.com/problems/design-tinyurl/).
 

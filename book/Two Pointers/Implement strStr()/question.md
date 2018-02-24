@@ -1,4 +1,6 @@
 ## Implement strStr()  
+### 链接  
+https://leetcode.com/problems/implement-strstr/description/  
 ### 问题描述
 
 Implement [strStr()](http://www.cplusplus.com/reference/cstring/strstr/).

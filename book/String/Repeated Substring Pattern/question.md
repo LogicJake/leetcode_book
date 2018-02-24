@@ -1,4 +1,6 @@
 ## Repeated Substring Pattern  
+### 链接  
+https://leetcode.com/problems/repeated-substring-pattern/description/  
 ### 问题描述
 **Example 1:**<br />
 <pre>

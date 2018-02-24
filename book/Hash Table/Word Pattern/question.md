@@ -1,4 +1,6 @@
 ## Word Pattern  
+### 链接  
+https://leetcode.com/problems/word-pattern/description/  
 ### 问题描述
 Given a `pattern` and a string `str`, find if `str` follows the same pattern.
 

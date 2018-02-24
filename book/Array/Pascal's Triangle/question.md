@@ -1,4 +1,6 @@
 ## Pascal's Triangle  
+### 链接  
+https://leetcode.com/problems/pascals-triangle/description/  
 ### 问题描述
 Given *numRows*, generate the first *numRows* of Pascal's triangle.
 

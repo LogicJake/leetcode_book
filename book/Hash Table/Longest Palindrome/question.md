@@ -1,4 +1,6 @@
 ## Longest Palindrome  
+### 链接  
+https://leetcode.com/problems/longest-palindrome/description/  
 ### 问题描述
 Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.
 

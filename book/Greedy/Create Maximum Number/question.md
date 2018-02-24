@@ -1,4 +1,6 @@
 ## Create Maximum Number  
+### 链接  
+https://leetcode.com/problems/create-maximum-number/description/  
 ### 问题描述
 
     Given two arrays of length `m` and `n` with digits `0-9` representing two numbers.

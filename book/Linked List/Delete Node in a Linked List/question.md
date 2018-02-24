@@ -1,4 +1,6 @@
 ## Delete Node in a Linked List  
+### 链接  
+https://leetcode.com/problems/delete-node-in-a-linked-list/description/  
 ### 问题描述
 
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.

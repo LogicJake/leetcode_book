@@ -1,4 +1,6 @@
 ## Valid Triangle Number  
+### 链接  
+https://leetcode.com/problems/valid-triangle-number/description/  
 ### 问题描述
 **Example 1:**<br />
 <pre>

@@ -1,4 +1,6 @@
 ## Reach a Number  
+### 链接  
+https://leetcode.com/problems/reach-a-number/description/  
 ### 问题描述
 
 You are standing at position `0` on an infinite number line.  There is a goal at position `target`.

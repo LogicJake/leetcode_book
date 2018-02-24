@@ -1,4 +1,6 @@
 ## Search in Rotated Sorted Array II  
+### 链接  
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/  
 ### 问题描述
 > 
 <p>*Follow up* for "Search in Rotated Sorted Array":<br />

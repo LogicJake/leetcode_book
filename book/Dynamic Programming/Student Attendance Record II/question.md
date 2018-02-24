@@ -1,4 +1,6 @@
 ## Student Attendance Record II  
+### 链接  
+https://leetcode.com/problems/student-attendance-record-ii/description/  
 ### 问题描述
 Given a positive integer **n**, return the number of all possible attendance records with length n, which will be regarded as rewardable. The answer may be very large, return it after mod 10<sup>9</sup> + 7.
 

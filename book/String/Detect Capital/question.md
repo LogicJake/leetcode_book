@@ -1,4 +1,6 @@
 ## Detect Capital  
+### 链接  
+https://leetcode.com/problems/detect-capital/description/  
 ### 问题描述
 
 Given a word, you need to judge whether the usage of capitals in it is right or not.

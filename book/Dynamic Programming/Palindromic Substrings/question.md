@@ -1,4 +1,6 @@
 ## Palindromic Substrings  
+### 链接  
+https://leetcode.com/problems/palindromic-substrings/description/  
 ### 问题描述
 
 Given a string, your task is to count how many palindromic substrings in this string.

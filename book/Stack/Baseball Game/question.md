@@ -1,4 +1,6 @@
 ## Baseball Game  
+### 链接  
+https://leetcode.com/problems/baseball-game/description/  
 ### 问题描述
 
 You're now a baseball game point recorder.

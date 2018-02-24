@@ -1,4 +1,6 @@
 ## Flatten Nested List Iterator  
+### 链接  
+https://leetcode.com/problems/flatten-nested-list-iterator/description/  
 ### 问题描述
 Given a nested list of integers, implement an iterator to flatten it.
 

@@ -1,4 +1,6 @@
 ## Special Binary String  
+### 链接  
+https://leetcode.com/problems/special-binary-string/description/  
 ### 问题描述
 
 *Special* binary strings are binary strings with the following two properties:

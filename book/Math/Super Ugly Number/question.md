@@ -1,4 +1,6 @@
 ## Super Ugly Number  
+### 链接  
+https://leetcode.com/problems/super-ugly-number/description/  
 ### 问题描述
 
     Write a program to find the n<sup>th</sup> super ugly number.

@@ -1,4 +1,6 @@
 ## Pyramid Transition Matrix  
+### 链接  
+https://leetcode.com/problems/pyramid-transition-matrix/description/  
 ### 问题描述
 
 We are stacking blocks to form a pyramid.  Each block has a color which is a one letter string, like `'Z'`.

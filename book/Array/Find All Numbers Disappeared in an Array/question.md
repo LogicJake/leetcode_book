@@ -1,4 +1,6 @@
 ## Find All Numbers Disappeared in an Array  
+### 链接  
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/  
 ### 问题描述
 Given an array of integers where 1 &le; a[i] &le; *n* (*n* = size of array), some elements appear twice and others appear once.
 

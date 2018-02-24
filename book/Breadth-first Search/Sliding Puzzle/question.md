@@ -1,4 +1,6 @@
 ## Sliding Puzzle  
+### 链接  
+https://leetcode.com/problems/sliding-puzzle/description/  
 ### 问题描述
 On a 2x3 `board`, there are 5 tiles represented by the integers 1 through 5, and an empty square represented by 0.
 

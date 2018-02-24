@@ -1,4 +1,6 @@
 ## Burst Balloons  
+### 链接  
+https://leetcode.com/problems/burst-balloons/description/  
 ### 问题描述
 
     Given `n` balloons, indexed from `0` to `n-1`. Each balloon is painted with a

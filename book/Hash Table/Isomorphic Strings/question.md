@@ -1,4 +1,6 @@
 ## Isomorphic Strings  
+### 链接  
+https://leetcode.com/problems/isomorphic-strings/description/  
 ### 问题描述
 Given two strings ***s*** and ***t***, determine if they are isomorphic.
 

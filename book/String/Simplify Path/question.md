@@ -1,4 +1,6 @@
 ## Simplify Path  
+### 链接  
+https://leetcode.com/problems/simplify-path/description/  
 ### 问题描述
 Given an absolute path for a file (Unix-style), simplify it.
 

@@ -1,4 +1,6 @@
 ## Implement Magic Dictionary  
+### 链接  
+https://leetcode.com/problems/implement-magic-dictionary/description/  
 ### 问题描述
 
 Implement a magic directory with `buildDict`, and `search` methods.

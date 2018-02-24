@@ -1,4 +1,6 @@
 ## 132 Pattern  
+### 链接  
+https://leetcode.com/problems/132-pattern/description/  
 ### 问题描述
 
 Given a sequence of n integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, a 132 pattern is a subsequence a<sub>**i**</sub>, a<sub>**j**</sub>, a<sub>**k**</sub> such

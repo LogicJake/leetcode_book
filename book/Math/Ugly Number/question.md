@@ -1,4 +1,6 @@
 ## Ugly Number  
+### 链接  
+https://leetcode.com/problems/ugly-number/description/  
 ### 问题描述
 
 Write a program to check whether a given number is an ugly number.

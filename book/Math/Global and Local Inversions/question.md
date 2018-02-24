@@ -1,4 +1,6 @@
 ## Global and Local Inversions  
+### 链接  
+https://leetcode.com/problems/global-and-local-inversions/description/  
 ### 问题描述
 We have some permutation `A` of `[0, 1, ..., N - 1]`, where `N` is the length of `A`.
 

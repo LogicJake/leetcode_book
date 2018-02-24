@@ -1,4 +1,6 @@
 ## Number of Atoms  
+### 链接  
+https://leetcode.com/problems/number-of-atoms/description/  
 ### 问题描述
 Given a chemical `formula` (given as a string), return the count of each atom.
 

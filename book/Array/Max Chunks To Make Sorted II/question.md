@@ -1,4 +1,6 @@
 ## Max Chunks To Make Sorted II  
+### 链接  
+https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/  
 ### 问题描述
 **This question is the same as &quot;Max Chunks to Make Sorted&quot; except the integers of the given array are not necessarily distinct, the input array could be up to length `2000`, and the elements could be up to `10**8`.**
 

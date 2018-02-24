@@ -1,4 +1,6 @@
 ## Next Permutation  
+### 链接  
+https://leetcode.com/problems/next-permutation/description/  
 ### 问题描述
 
 Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.

@@ -1,4 +1,6 @@
 ## Guess Number Higher or Lower  
+### 链接  
+https://leetcode.com/problems/guess-number-higher-or-lower/description/  
 ### 问题描述
 We are playing the Guess Game. The game is as follows:<p> 
 

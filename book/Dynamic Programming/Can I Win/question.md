@@ -1,4 +1,6 @@
 ## Can I Win  
+### 链接  
+https://leetcode.com/problems/can-i-win/description/  
 ### 问题描述
 In the "100 game," two players take turns adding, to a running total, any integer from 1..10. The player who first causes the running total to reach or exceed 100 wins. 
 

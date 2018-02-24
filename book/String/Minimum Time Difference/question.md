@@ -1,4 +1,6 @@
 ## Minimum Time Difference  
+### 链接  
+https://leetcode.com/problems/minimum-time-difference/description/  
 ### 问题描述
 **Example 1:**<br />
 <pre>

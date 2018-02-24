@@ -1,4 +1,6 @@
 ## Kth Smallest Element in a BST  
+### 链接  
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/  
 ### 问题描述
 Given a binary search tree, write a function `kthSmallest` to find the **k**th smallest element in it.
 

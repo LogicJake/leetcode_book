@@ -1,4 +1,6 @@
 ## Merge Two Binary Trees  
+### 链接  
+https://leetcode.com/problems/merge-two-binary-trees/description/  
 ### 问题描述
 
 Given two binary trees and imagine that when you put one of them to cover the other, some nodes of the two trees are overlapped while the others are not. 

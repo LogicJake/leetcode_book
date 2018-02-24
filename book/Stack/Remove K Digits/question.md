@@ -1,4 +1,6 @@
 ## Remove K Digits  
+### 链接  
+https://leetcode.com/problems/remove-k-digits/description/  
 ### 问题描述
 Given a non-negative integer *num* represented as a string, remove *k* digits from the number so that the new number is the smallest possible.
 

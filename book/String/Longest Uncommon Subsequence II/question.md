@@ -1,4 +1,6 @@
 ## Longest Uncommon Subsequence II  
+### 链接  
+https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/  
 ### 问题描述
 
 Given a list of strings, you need to find the longest uncommon subsequence among them. The longest uncommon subsequence is defined as the longest subsequence of one of these strings and this subsequence should not be **any** subsequence of the other strings.

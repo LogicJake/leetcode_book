@@ -1,4 +1,6 @@
 ## Fraction to Recurring Decimal  
+### 链接  
+https://leetcode.com/problems/fraction-to-recurring-decimal/description/  
 ### 问题描述
 Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.
 

@@ -1,4 +1,6 @@
 ## Minesweeper  
+### 链接  
+https://leetcode.com/problems/minesweeper/description/  
 ### 问题描述
 Let's play the minesweeper game ([Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)), [online game](http://minesweeperonline.com))! 
 

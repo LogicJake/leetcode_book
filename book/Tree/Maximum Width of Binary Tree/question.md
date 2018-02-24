@@ -1,4 +1,6 @@
 ## Maximum Width of Binary Tree  
+### 链接  
+https://leetcode.com/problems/maximum-width-of-binary-tree/description/  
 ### 问题描述
 Given a binary tree, write a function to get the maximum width of the given tree. The width of a tree is the maximum width among all levels. The binary tree has the same structure as a **full binary tree**, but some nodes are null. 
 

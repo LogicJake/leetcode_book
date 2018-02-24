@@ -1,4 +1,6 @@
 ## Degree of an Array  
+### 链接  
+https://leetcode.com/problems/degree-of-an-array/description/  
 ### 问题描述
 Given a non-empty array of non-negative integers `nums`, the **degree** of this array is defined as the maximum frequency of any one of its elements.
 

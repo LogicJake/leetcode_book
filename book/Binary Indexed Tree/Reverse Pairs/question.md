@@ -1,4 +1,6 @@
 ## Reverse Pairs  
+### 链接  
+https://leetcode.com/problems/reverse-pairs/description/  
 ### 问题描述
 Given an array `nums`, we call `(i, j)` an ***important reverse pair*** if `i &lt; j` and `nums[i] &gt; 2*nums[j]`.
 

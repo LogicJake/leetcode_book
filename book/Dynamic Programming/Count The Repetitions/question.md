@@ -1,4 +1,6 @@
 ## Count The Repetitions  
+### 链接  
+https://leetcode.com/problems/count-the-repetitions/description/  
 ### 问题描述
 Define `S = [s,n]` as the string S which consists of n connected strings s. For example, `["abc", 3]` ="abcabcabc". 
 

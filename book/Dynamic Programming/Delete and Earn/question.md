@@ -1,4 +1,6 @@
 ## Delete and Earn  
+### 链接  
+https://leetcode.com/problems/delete-and-earn/description/  
 ### 问题描述
 
 Given an array `nums` of integers, you can perform operations on the array.

@@ -1,4 +1,6 @@
 ## Longest Harmonious Subsequence  
+### 链接  
+https://leetcode.com/problems/longest-harmonious-subsequence/description/  
 ### 问题描述
 We define a harmonious array is an array where the difference between its maximum value and its minimum value is **exactly** 1.
 

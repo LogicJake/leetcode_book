@@ -1,4 +1,6 @@
 ## Longest Increasing Subsequence  
+### 链接  
+https://leetcode.com/problems/longest-increasing-subsequence/description/  
 ### 问题描述
 
 Given an unsorted array of integers, find the length of longest increasing subsequence.

@@ -1,4 +1,6 @@
 ## 2 Keys Keyboard  
+### 链接  
+https://leetcode.com/problems/2-keys-keyboard/description/  
 ### 问题描述
 
 Initially on a notepad only one character 'A' is present. You can perform two operations on this notepad for each step: 

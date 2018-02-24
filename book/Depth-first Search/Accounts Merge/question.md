@@ -1,4 +1,6 @@
 ## Accounts Merge  
+### 链接  
+https://leetcode.com/problems/accounts-merge/description/  
 ### 问题描述
 Given a list `accounts`, each element `accounts[i]` is a list of strings, where the first element `accounts[i][0]` is a *name*, and the rest of the elements are *emails* representing emails of the account.
 

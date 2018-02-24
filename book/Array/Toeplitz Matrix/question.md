@@ -1,4 +1,6 @@
 ## Toeplitz Matrix  
+### 链接  
+https://leetcode.com/problems/toeplitz-matrix/description/  
 ### 问题描述
 A matrix is **Toeplitz** if every diagonal from top-left to bottom-right has the same element.
 

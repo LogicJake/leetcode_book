@@ -1,4 +1,6 @@
 ## Delete Node in a BST  
+### 链接  
+https://leetcode.com/problems/delete-node-in-a-bst/description/  
 ### 问题描述
 Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.
 

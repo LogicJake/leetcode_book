@@ -1,4 +1,6 @@
 ## Contain Virus  
+### 链接  
+https://leetcode.com/problems/contain-virus/description/  
 ### 问题描述
 
 A virus is spreading rapidly, and your task is to quarantine the infected area by installing walls.

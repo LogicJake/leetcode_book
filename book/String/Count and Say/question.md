@@ -1,4 +1,6 @@
 ## Count and Say  
+### 链接  
+https://leetcode.com/problems/count-and-say/description/  
 ### 问题描述
 The count-and-say sequence is the sequence of integers with the first five terms as following:
 

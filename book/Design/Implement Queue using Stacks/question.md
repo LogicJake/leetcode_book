@@ -1,4 +1,6 @@
 ## Implement Queue using Stacks  
+### 链接  
+https://leetcode.com/problems/implement-queue-using-stacks/description/  
 ### 问题描述
 
 Implement the following operations of a queue using stacks.

@@ -1,4 +1,6 @@
 ## Network Delay Time  
+### 链接  
+https://leetcode.com/problems/network-delay-time/description/  
 ### 问题描述
 
 There are `N` network nodes, labelled `1` to `N`.

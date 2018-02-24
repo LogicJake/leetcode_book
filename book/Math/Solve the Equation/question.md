@@ -1,4 +1,6 @@
 ## Solve the Equation  
+### 链接  
+https://leetcode.com/problems/solve-the-equation/description/  
 ### 问题描述
 
 Solve a given equation and return the value of `x` in the form of string "x=#value". The equation contains only '+', '-' operation, the variable `x` and its coefficient.

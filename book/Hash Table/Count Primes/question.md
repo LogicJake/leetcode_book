@@ -1,4 +1,6 @@
 ## Count Primes  
+### 链接  
+https://leetcode.com/problems/count-primes/description/  
 ### 问题描述
 **Description:**
 

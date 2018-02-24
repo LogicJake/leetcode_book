@@ -1,4 +1,6 @@
 ## Populating Next Right Pointers in Each Node  
+### 链接  
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/  
 ### 问题描述
 
 Given a binary tree

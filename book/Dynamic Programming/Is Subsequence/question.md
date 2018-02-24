@@ -1,4 +1,6 @@
 ## Is Subsequence  
+### 链接  
+https://leetcode.com/problems/is-subsequence/description/  
 ### 问题描述
 
 Given a string **s** and a string **t**, check if **s** is subsequence of **t**.

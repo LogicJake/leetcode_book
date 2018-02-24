@@ -1,4 +1,6 @@
 ## Sum of Square Numbers  
+### 链接  
+https://leetcode.com/problems/sum-of-square-numbers/description/  
 ### 问题描述
 
 Given a non-negative integer `c`, your task is to decide whether there're two integers `a` and `b` such that a<sup>2</sup> + b<sup>2</sup> = c.

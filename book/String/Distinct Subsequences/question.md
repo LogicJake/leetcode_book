@@ -1,4 +1,6 @@
 ## Distinct Subsequences  
+### 链接  
+https://leetcode.com/problems/distinct-subsequences/description/  
 ### 问题描述
 
 Given a string **S** and a string **T**, count the number of distinct subsequences of **S** which equals **T**.

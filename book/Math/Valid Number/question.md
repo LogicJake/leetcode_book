@@ -1,4 +1,6 @@
 ## Valid Number  
+### 链接  
+https://leetcode.com/problems/valid-number/description/  
 ### 问题描述
 Validate if a given string is numeric.
 

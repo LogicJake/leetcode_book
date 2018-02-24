@@ -1,4 +1,6 @@
 ## Dota2 Senate  
+### 链接  
+https://leetcode.com/problems/dota2-senate/description/  
 ### 问题描述
 
 In the world of Dota2, there are two parties: the `Radiant` and the `Dire`.

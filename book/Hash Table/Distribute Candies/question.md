@@ -1,4 +1,6 @@
 ## Distribute Candies  
+### 链接  
+https://leetcode.com/problems/distribute-candies/description/  
 ### 问题描述
 **Example 1:**<br />
 <pre>
