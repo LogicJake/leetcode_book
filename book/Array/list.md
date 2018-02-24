@@ -21,7 +21,7 @@
 | [Largest Rectangle in Histogram](Largest%20Rectangle%20in%20Histogram/question.md) | 困难 |   
 | [Construct Binary Tree from Preorder and Inorder Traversal](Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/question.md) | 中等 |   
 | [Construct Binary Tree from Inorder and Postorder Traversal](Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/question.md) | 中等 |   
-| [Pascal's Triangle II](Pascal's%20Triangle%20II/question.md) | 简单 |   
+| [Pascal's Triangle II](Pascal%27s%20Triangle%20II/question.md) | 简单 |   
 | [Triangle](Triangle/question.md) | 中等 |   
 | [Best Time to Buy and Sell Stock III](Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/question.md) | 困难 |   
 | [Maximum Product Subarray](Maximum%20Product%20Subarray/question.md) | 中等 |   
@@ -55,7 +55,7 @@
 | [Missing Number](Missing%20Number/question.md) | 简单 |   
 | [Product of Array Except Self](Product%20of%20Array%20Except%20Self/question.md) | 中等 |   
 | [Search in Rotated Sorted Array](Search%20in%20Rotated%20Sorted%20Array/question.md) | 中等 |   
-| [Pascal's Triangle](Pascal's%20Triangle/question.md) | 简单 |   
+| [Pascal's Triangle](Pascal%27s%20Triangle/question.md) | 简单 |   
 | [Combination Sum](Combination%20Sum/question.md) | 中等 |   
 | [Unique Paths](Unique%20Paths/question.md) | 中等 |   
 | [Maximum Subarray](Maximum%20Subarray/question.md) | 简单 |   
