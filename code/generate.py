@@ -104,7 +104,7 @@ def generate(tag):
     for t in tag:
         name = t['name']
 
-        f.write("  \n   * [{}]({})".format(name,"book/"+name.strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/list.md"))
+        f.write("  \n   * [{}]({})".format(name,"book/"+name.strip()+"/list.md"))
         path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name
         isExists = os.path.exists(path)
         fp.write("| [{}]({})| {} |  \n".format(name,name.strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/list.md",t['questions'].__len__()))
@@ -131,13 +131,14 @@ def generate(tag):
                         ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],r['question_title'].strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/question.md",level))
                     qpath = path+os.path.sep+r['question_title'].strip()
                     isExists = os.path.exists(qpath)
-                    f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/"+r['question_title'].strip().replace(" ","%20").replace("(","%28").replace(")","%29").replace("'","%27")+"/question.md)")
+                    f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md)")
                     if not isExists:  # 生成各个题目的目录
                         os.mkdir(qpath)
                     if r['paid_only'] != True:
-                        md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])+"  \n### 问题描述" + get_question_detail(r['question_slug'])
-                        with open(qpath.strip()+os.path.sep+"question.md","w",encoding='utf-8') as ff:
-                          ff.write(md)
+                        pass
+                        # md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])+"  \n### 问题描述" + get_question_detail(r['question_slug'])
+                        # with open(qpath.strip()+os.path.sep+"question.md","w",encoding='utf-8') as ff:
+                        #   ff.write(md)
                     else:
                         md = "## " + r['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(r['question_slug'])
                         with open(qpath.strip() + os.path.sep + "question.md", "w", encoding='utf-8') as ff:
