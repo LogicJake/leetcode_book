@@ -2,7 +2,7 @@
 | 分类名称 | 个数 | 
 |:---:|:---:|  
 | [Array](Array/list.md)| 124 |  
-| [Hash Table](Hash Table/list.md)| 81 |  
+| [Hash Table](Hash%20Table/list.md)| 81 |  
 | [Linked List](Linked List/list.md)| 28 |  
 | [Math](Math/list.md)| 82 |  
 | [Two Pointers](Two Pointers/list.md)| 40 |  
