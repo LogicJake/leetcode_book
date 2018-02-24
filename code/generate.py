@@ -111,7 +111,7 @@ def generate(tag):
         f.write("  \n   * [{}]({})".format(name,"book/"+name+"/list.md"))
         path = os.path.abspath(os.path.join(pwd,os.pardir))+os.path.sep+"book"+os.path.sep+name
         isExists = os.path.exists(path)
-        fp.write("| [{}]({})| {} |  \n".format(name,"book/"+name.strip()+"/list.md",t['questions'].__len__()))
+        fp.write("| [{}]({})| {} |  \n".format(name,name.strip()+"/list.md",t['questions'].__len__()))
         if not isExists:            #生成各个tag的目录
             os.mkdir(path)
         for id in t['questions']:
@@ -125,9 +125,9 @@ def generate(tag):
                     elif r['difficulty'] == 3:
                         level = "困难"
                     if r['paid_only'] == True:
-                        ft.write("| [{}]({}) :lock: | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md",level))
+                        ft.write("| [{}]({}) :lock: | {} |   \n".format(r['question_title'],name.strip()+"/"+r['question_title'].strip()+"/question.md",level))
                     else:
-                        ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],"book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md",level))
+                        ft.write("| [{}]({}) | {} |   \n".format(r['question_title'],name.strip()+"/"+r['question_title'].strip()+"/question.md",level))
                     qpath = path+os.path.sep+r['question_title'].strip()
                     isExists = os.path.exists(qpath)
                     f.write("  \n       * [" + r['question_title'].strip()+"](book/"+name.strip()+"/"+r['question_title'].strip()+"/question.md)")
