@@ -126,3 +126,4 @@
        * [Max Chunks To Make Sorted](book/array/max-chunks-to-make-sorted/question.md)  
        * [Max Chunks To Make Sorted II](book/array/max-chunks-to-make-sorted-ii/question.md)  
        * [Global and Local Inversions](book/array/global-and-local-inversions/question.md)
+  * [Hash Table](book/hash-table/list.md)
