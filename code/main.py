@@ -221,7 +221,7 @@ class LeetCodeDownLoad(object):
                 if not os.path.exists(qpath):
                     os.mkdir(qpath)
                 summary.write(
-                    "  \n       * [{}]({})".format(question['question_title'].strip(), qpath + "/question.md"))
+                    "  \n       * [{}]({})".format(question['question_title'].strip(), "book/" + tag_name + "/" + question['question_slug'].strip() + "/question.md"))
 
                 if question['paid_only'] == False:
                     md = "## " + question['question_title'] + "  \n### 链接  \nhttps://leetcode.com/problems/{}/description/".format(
