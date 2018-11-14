@@ -93,9 +93,6 @@ query getQuestionDetail($titleSlug: String!) {
     }'''
 
 
-def download(tag):
-
-
 class LeetCodeDownLoad(object):
 
     def get_question_detail(self, titleSlug):
@@ -223,7 +220,7 @@ class LeetCodeDownLoad(object):
                 qpath = questions_path + question['question_slug'].strip()
                 if not os.path.exists(qpath):
                     os.mkdir(qpath)
-                question_list.write(
+                summary.write(
                     "  \n * [{}]({})".format(question['question_title'].strip(), qpath + "/question.md"))
 
                 if question['paid_only'] == False:

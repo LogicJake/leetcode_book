@@ -9,10 +9,6 @@ One way to serialize a binary tree is to use pre-order traversal. When we encoun
 **Output: **<code>true
 ```
 
-Given a string of comma separated values, verify whether it is a correct preorder traversal serialization of a binary tree. Find an algorithm without reconstructing the tree.
-
-You may assume that the input format is always valid, for example it could never contain two consecutive commas such as `&quot;1,,3&quot;`.
-
 **Example 2:**
 
 ```
