@@ -2,15 +2,18 @@
 ### 链接  
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/  
 ### 问题描述
-
-Follow up for "Remove Duplicates":<br />
-What if duplicates are allowed at most *twice*?
+Given a sorted array **nums**, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that duplicates appeared at most&nbsp;**twice** and return the new length.
 
-
-For example,<br />
-Given sorted array *nums* = `[1,1,1,2,2,3]`,
+Do not allocate extra space for another array, you must do this by **modifying the input array [in-place](https://en.wikipedia.org/wiki/In-place_algorithm)** with O(1) extra memory.
 
+**Example 1:**
 
-
-Your function should return length = `5`, with the first five elements of *nums* being `1`, `1`, `2`, `2` and `3`. It doesn't matter what you leave beyond the new length.
+**Example 2:**
 
+**Clarification:**
+
+Confused why the returned value is an integer but your answer is an array?
+
+Note that the input array is passed in by **reference**, which means modification to the input array will be known to the caller as well.
+
+Internally you can think of this:

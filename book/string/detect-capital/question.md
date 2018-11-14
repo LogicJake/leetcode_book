@@ -2,34 +2,34 @@
 ### 链接  
 https://leetcode.com/problems/detect-capital/description/  
 ### 问题描述
-
-Given a word, you need to judge whether the usage of capitals in it is right or not.
+
+Given a word, you need to judge whether the usage of capitals in it is right or not.
 
 
-
-We define the usage of capitals in a word to be right when one of the following cases holds:
-<ol>
-- All letters in this word are capitals, like "USA".
-- All letters in this word are not capitals, like "leetcode".
-- Only the first letter in this word is capital if it has more than one letter, like "Google".
-</ol>
-Otherwise, we define that this word doesn't use capitals in a right way.
+
+We define the usage of capitals in a word to be right when one of the following cases holds:
+<ol>
+- All letters in this word are capitals, like "USA".
+- All letters in this word are not capitals, like "leetcode".
+- Only the first letter in this word is capital if it has more than one letter, like "Google".
+</ol>
+Otherwise, we define that this word doesn't use capitals in a right way.
 
 
-**Example 1:**<br />
-<pre>
-**Input:** "USA"
-**Output:** True
-</pre>
+**Example 1:**<br />
+<pre>
+**Input:** "USA"
+**Output:** True
+</pre>
 
 
-**Example 2:**<br />
-<pre>
-**Input:** "FlaG"
-**Output:** False
-</pre>
+**Example 2:**<br />
+<pre>
+**Input:** "FlaG"
+**Output:** False
+</pre>
 
 
-**Note:**
-The input will be a non-empty word consisting of uppercase and lowercase latin letters.
+**Note:**
+The input will be a non-empty word consisting of uppercase and lowercase latin letters.
 

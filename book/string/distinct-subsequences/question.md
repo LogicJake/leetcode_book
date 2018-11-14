@@ -2,19 +2,10 @@
 ### 链接  
 https://leetcode.com/problems/distinct-subsequences/description/  
 ### 问题描述
-
-Given a string **S** and a string **T**, count the number of distinct subsequences of **S** which equals **T**.
+Given a string **S** and a string **T**, count the number of distinct subsequences of **S** which equals **T**.
 
+A subsequence of a string is a new string which is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (ie, `&quot;ACE&quot;` is a subsequence of `&quot;ABCDE&quot;` while `&quot;AEC&quot;` is not).
 
-
-A subsequence of a string is a new string which is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (ie, `"ACE"` is a subsequence of `"ABCDE"` while `"AEC"` is not).
+**Example 1:**
 
-
-
-Here is an example:<br />
-**S** = `"rabbbit"`, **T** = `"rabbit"`
-
-
-
-Return `3`.
-
+**Example 2:**

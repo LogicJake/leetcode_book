@@ -2,15 +2,14 @@
 ### 链接  
 https://leetcode.com/problems/valid-anagram/description/  
 ### 问题描述
-Given two strings *s* and *t*, write a function to determine if *t* is an anagram of *s*.
+Given two strings **s** and **t&nbsp;**, write a function to determine if **t** is an anagram of **s**.
 
-For example,<br>
-*s* = "anagram", *t* = "nagaram", return true.<br>
-*s* = "rat", *t* = "car", return false.
+**Example 1:**
 
+**Example 2:**
 
-**Note:**<br>
+**Note:**<br />
 You may assume the string contains only lowercase alphabets.
 
-**Follow up:**<br>
+**Follow up:**<br />
 What if the inputs contain unicode characters? How would you adapt your solution to such case?

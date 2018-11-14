@@ -2,10 +2,14 @@
 ### 链接  
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/  
 ### 问题描述
-Given a linked list, remove the **n**<sup>th</sup> node from the end of list and return its head.
+Given a linked list, remove the **n**-th node from the end of list and return its head.
 
-For example,
+**Example:**
 
-**Note:**<br />
-Given **n** will always be valid.<br />
-Try to do this in one pass.
+**Note:**
+
+Given **n** will always be valid.
+
+**Follow up:**
+
+Could you do this in one pass?

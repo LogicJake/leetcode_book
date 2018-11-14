@@ -8,17 +8,17 @@ You may complete as many transactions as you like, but you need to pay the trans
 
 Return the maximum profit you can make.
 
-**Example 1:**<br />
-<pre>
-**Input:** prices = [1, 3, 2, 8, 4, 9], fee = 2
-**Output:** 8
-**Explanation:** The maximum profit can be achieved by:
-- Buying at prices[0] = 1- Selling at prices[3] = 8- Buying at prices[4] = 4- Selling at prices[5] = 9The total profit is ((8 - 1) - 2) + ((9 - 4) - 2) = 8.
-</pre>
+**Example 1:**<br />
+<pre>
+**Input:** prices = [1, 3, 2, 8, 4, 9], fee = 2
+**Output:** 8
+**Explanation:** The maximum profit can be achieved by:
+- Buying at prices[0] = 1- Selling at prices[3] = 8- Buying at prices[4] = 4- Selling at prices[5] = 9The total profit is ((8 - 1) - 2) + ((9 - 4) - 2) = 8.
+</pre>
 
 
-**Note:**
-- `0 < prices.length <= 50000`.
-- `0 < prices[i] < 50000`.
-- `0 <= fee < 50000`.
+**Note:**
+- `0 < prices.length <= 50000`.
+- `0 < prices[i] < 50000`.
+- `0 <= fee < 50000`.
 

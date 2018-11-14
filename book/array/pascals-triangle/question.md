@@ -2,18 +2,9 @@
 ### 链接  
 https://leetcode.com/problems/pascals-triangle/description/  
 ### 问题描述
-Given *numRows*, generate the first *numRows* of Pascal's triangle.
+Given a non-negative integer&nbsp;**numRows**, generate the first **numRows** of Pascal&#39;s triangle.
 
-
-For example, given *numRows* = 5,<br />
-Return
-<pre>
-[
-     [1],
-    [1,1],
-   [1,2,1],
-  [1,3,3,1],
- [1,4,6,4,1]
-]
-</pre>
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif" style="height:240px; width:260px" /><br />
+<small>In Pascal&#39;s triangle, each number is the sum of the two numbers directly above it.</small>
 
+**Example:**

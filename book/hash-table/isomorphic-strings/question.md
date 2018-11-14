@@ -8,12 +8,11 @@ Two strings are isomorphic if the characters in ***s*** can be replaced to get *
 
 All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character but a character may map to itself.
 
-For example,<br>
-Given `"egg"`, `"add"`, return true.
+**Example 1:**
 
-Given `"foo"`, `"bar"`, return false.
+**Example 2:**
 
-Given `"paper"`, `"title"`, return true.
+**Example 3:**
 
-**Note:**<br>
-You may assume both ***s*** and ***t*** have the same length.
+**Note:**<br />
+You may assume both ***s&nbsp;***and ***t&nbsp;***have the same length.

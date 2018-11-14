@@ -6,7 +6,9 @@ Say you have an array for which the *i*<sup>th</sup> element is the price of a g
 
 Design an algorithm to find the maximum profit. You may complete at most **k** transactions.
 
-**Note:**<br />
+**Note:**<br />
 You may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
 
-**Credits:**<br />Special thanks to [@Freezen](https://oj.leetcode.com/discuss/user/Freezen) for adding this problem and creating all test cases.
+**Example 1:**
+
+**Example 2:**

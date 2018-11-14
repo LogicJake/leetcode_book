@@ -2,14 +2,14 @@
 ### 链接  
 https://leetcode.com/problems/palindrome-number/description/  
 ### 问题描述
-Determine whether an integer is a palindrome. Do this without extra space.
+Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.
 
-[click to show spoilers.](#)
+**Example 1:**
 
-Could negative integers be palindromes? (ie, -1)
+**Example 2:**
 
-If you are thinking of converting the integer to string, note the restriction of using extra space.
+**Example 3:**
 
-You could also try reversing an integer. However, if you have solved the problem "Reverse Integer", you know that the reversed integer might overflow. How would you handle such case?
+**Follow up:**
 
-There is a more generic way of solving this problem.
+Coud you solve&nbsp;it without converting the integer to a string?

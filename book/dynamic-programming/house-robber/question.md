@@ -6,4 +6,6 @@ You are a professional robber planning to rob houses along a street. Each house 
 
 Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight **without alerting the police**.
 
-**Credits:**<br />Special thanks to [@ifanchu](https://oj.leetcode.com/discuss/user/ifanchu) for adding this problem and creating all test cases. Also thanks to [@ts](https://oj.leetcode.com/discuss/user/ts) for adding additional test cases.
+**Example 1:**
+
+**Example 2:**

@@ -2,36 +2,36 @@
 ### 链接  
 https://leetcode.com/problems/maximum-binary-tree/description/  
 ### 问题描述
-
-Given an integer array with no duplicates. A maximum tree building on this array is defined as follow:
-<ol>
-- The root is the maximum number in the array. 
-- The left subtree is the maximum tree constructed from left part subarray divided by the maximum number.
-- The right subtree is the maximum tree constructed from right part subarray divided by the maximum number. 
-</ol>
+
+Given an integer array with no duplicates. A maximum tree building on this array is defined as follow:
+<ol>
+- The root is the maximum number in the array. 
+- The left subtree is the maximum tree constructed from left part subarray divided by the maximum number.
+- The right subtree is the maximum tree constructed from right part subarray divided by the maximum number. 
+</ol>
 
 
-
-Construct the maximum tree by the given array and output the root node of this tree.
+
+Construct the maximum tree by the given array and output the root node of this tree.
 
 
-**Example 1:**<br />
-<pre>
-**Input:** [3,2,1,6,0,5]
-**Output:** return the tree root node representing the following tree:
-
-      6
-    /   \
-   3     5
-    \    / 
-     2  0   
-       \
-        1
-</pre>
+**Example 1:**<br />
+<pre>
+**Input:** [3,2,1,6,0,5]
+**Output:** return the tree root node representing the following tree:
+
+      6
+    /   \
+   3     5
+    \    / 
+     2  0   
+       \
+        1
+</pre>
 
 
-**Note:**<br>
-<ol>
-- The size of the given array will be in the range [1,1000].
-</ol>
+**Note:**<br>
+<ol>
+- The size of the given array will be in the range [1,1000].
+</ol>
 

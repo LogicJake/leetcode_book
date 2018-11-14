@@ -2,13 +2,15 @@
 ### 链接  
 https://leetcode.com/problems/power-of-three/description/  
 ### 问题描述
-
-    Given an integer, write a function to determine if it is a power of three.
+Given an integer, write a function to determine if it is a power of three.
 
+**Example 1:**
 
-
-    **Follow up:**<br>
-    Could you do it without using any loop / recursion?
+**Example 2:**
 
+**Example 3:**
 
-**Credits:**<br />Special thanks to [@dietpepsi](https://leetcode.com/discuss/user/dietpepsi) for adding this problem and creating all test cases.
+**Example 4:**
+
+**Follow up:**<br />
+Could you do it without using any loop / recursion?

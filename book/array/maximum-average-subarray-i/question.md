@@ -2,21 +2,21 @@
 ### 链接  
 https://leetcode.com/problems/maximum-average-subarray-i/description/  
 ### 问题描述
-
-Given an array consisting of `n` integers, find the contiguous subarray of given length `k` that has the maximum average value. And you need to output the maximum average value.
+
+Given an array consisting of `n` integers, find the contiguous subarray of given length `k` that has the maximum average value. And you need to output the maximum average value.
 
 
-**Example 1:**<br />
-<pre>
-**Input:** [1,12,-5,-6,50,3], k = 4
-**Output:** 12.75
-**Explanation:** Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
-</pre>
+**Example 1:**<br />
+<pre>
+**Input:** [1,12,-5,-6,50,3], k = 4
+**Output:** 12.75
+**Explanation:** Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
+</pre>
 
 
-**Note:**<br>
-<ol>
-- 1 <= `k` <= `n` <= 30,000.
-- Elements of the given array will be in the range [-10,000, 10,000].
-</ol>
+**Note:**<br>
+<ol>
+- 1 <= `k` <= `n` <= 30,000.
+- Elements of the given array will be in the range [-10,000, 10,000].
+</ol>
 

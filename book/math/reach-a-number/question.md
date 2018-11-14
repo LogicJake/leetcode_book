@@ -2,39 +2,39 @@
 ### 链接  
 https://leetcode.com/problems/reach-a-number/description/  
 ### 问题描述
-
-You are standing at position `0` on an infinite number line.  There is a goal at position `target`.
+
+You are standing at position `0` on an infinite number line.  There is a goal at position `target`.
 
 
-
-On each move, you can either go left or right.  During the *n*-th move (starting from 1), you take *n* steps.
+
+On each move, you can either go left or right.  During the *n*-th move (starting from 1), you take *n* steps.
 
 
-
-Return the minimum number of steps required to reach the destination.
+
+Return the minimum number of steps required to reach the destination.
 
 
-**Example 1:**<br />
-<pre>
-**Input:** target = 3
-**Output:** 2
-**Explanation:**
-On the first move we step from 0 to 1.
-On the second step we step from 1 to 3.
-</pre>
+**Example 1:**<br />
+<pre>
+**Input:** target = 3
+**Output:** 2
+**Explanation:**
+On the first move we step from 0 to 1.
+On the second step we step from 1 to 3.
+</pre>
 
 
-**Example 2:**<br />
-<pre>
-**Input:** target = 2
-**Output:** 3
-**Explanation:**
-On the first move we step from 0 to 1.
-On the second move we step  from 1 to -1.
-On the third move we step from -1 to 2.
-</pre>
+**Example 2:**<br />
+<pre>
+**Input:** target = 2
+**Output:** 3
+**Explanation:**
+On the first move we step from 0 to 1.
+On the second move we step  from 1 to -1.
+On the third move we step from -1 to 2.
+</pre>
 
 
-**Note:**<br>
-- `target` will be a non-zero integer in the range `[-10^9, 10^9]`.
+**Note:**<br>
+- `target` will be a non-zero integer in the range `[-10^9, 10^9]`.
 

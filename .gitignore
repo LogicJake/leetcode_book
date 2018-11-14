@@ -105,3 +105,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 .idea/
+\.tags_sorted_by_file
+
+\.tags

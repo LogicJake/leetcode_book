@@ -8,29 +8,29 @@ Given *n*, find the total number of **full** staircase rows that can be formed.
 
 *n* is a non-negative integer and fits within the range of a 32-bit signed integer.
 
-**Example 1:**
-<pre>
-n = 5
-
-The coins can form the following rows:
-¤
-¤ ¤
-¤ ¤
-
-Because the 3rd row is incomplete, we return 2.
-</pre>
+**Example 1:**
+<pre>
+n = 5
+
+The coins can form the following rows:
+¤
+¤ ¤
+¤ ¤
+
+Because the 3rd row is incomplete, we return 2.
+</pre>
 
 
-**Example 2:**
-<pre>
-n = 8
-
-The coins can form the following rows:
-¤
-¤ ¤
-¤ ¤ ¤
-¤ ¤
-
-Because the 4th row is incomplete, we return 3.
-</pre>
+**Example 2:**
+<pre>
+n = 8
+
+The coins can form the following rows:
+¤
+¤ ¤
+¤ ¤ ¤
+¤ ¤
+
+Because the 4th row is incomplete, we return 3.
+</pre>
 

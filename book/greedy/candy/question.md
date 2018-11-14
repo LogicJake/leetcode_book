@@ -2,17 +2,15 @@
 ### 链接  
 https://leetcode.com/problems/candy/description/  
 ### 问题描述
-
-There are *N* children standing in a line. Each child is assigned a rating value. 
+There are **N** children standing in a line. Each child is assigned a rating value.
 
+You are giving candies to these children subjected to the following requirements:
 
-
-You are giving candies to these children subjected to the following requirements:
+	- Each child must have at least one candy.
+	- Children with a higher rating get more candies than their neighbors.
 
-
-- Each child must have at least one candy.
-- Children with a higher rating get more candies than their neighbors.
+What is the minimum candies you must give?
 
-
-What is the minimum candies you must give?
+**Example 1:**
 
+**Example 2:**

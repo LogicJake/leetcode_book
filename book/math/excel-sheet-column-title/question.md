@@ -6,4 +6,8 @@ Given a positive integer, return its corresponding column title as appear in an 
 
 For example:
 
-**Credits:**<br />Special thanks to [@ifanchu](https://leetcode.com/discuss/user/ifanchu) for adding this problem and creating all test cases.
+**Example 1:**
+
+**Example 2:**
+
+**Example 3:**

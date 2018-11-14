@@ -8,12 +8,12 @@ Find the maximum result of a<sub>i</sub> XOR a<sub>j</sub>, where 0 &le; *i*, *j
 
 Could you do this in O(*n*) runtime?
 
-**Example:**
-<pre>
-**Input:** [3, 10, 5, 25, 2, 8]
-
-**Output:** 28
-
-**Explanation:** The maximum result is **5** ^ **25** = 28.
-</pre>
+**Example:**
+<pre>
+**Input:** [3, 10, 5, 25, 2, 8]
+
+**Output:** 28
+
+**Explanation:** The maximum result is **5** ^ **25** = 28.
+</pre>
 

@@ -6,15 +6,15 @@ There are a number of spherical balloons spread in two-dimensional space. For ea
 
 An arrow can be shot up exactly vertically from different points along the x-axis. A balloon with x<sub>start</sub> and x<sub>end</sub> bursts by an arrow shot at x if x<sub>start</sub> &le; x &le; x<sub>end</sub>. There is no limit to the number of arrows that can be shot. An arrow once shot keeps travelling up infinitely. The problem is to find the minimum number of arrows that must be shot to burst all balloons. 
 
-**Example:**
-<pre>
-**Input:**
-[[10,16], [2,8], [1,6], [7,12]]
-
-**Output:**
-2
-
-**Explanation:**
-One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] and [1,6]) and another arrow at x = 11 (bursting the other two balloons).
-</pre>
+**Example:**
+<pre>
+**Input:**
+[[10,16], [2,8], [1,6], [7,12]]
+
+**Output:**
+2
+
+**Explanation:**
+One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] and [1,6]) and another arrow at x = 11 (bursting the other two balloons).
+</pre>
 

@@ -6,17 +6,17 @@ https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/descripti
 
 You may assume the array's length is at most 10,000.
 
-**Example:**
-<pre>
-**Input:**
-[1,2,3]
-
-**Output:**
-2
-
-**Explanation:**
-Only two moves are needed (remember each move increments or decrements one element):
-
-[1,2,3]  =>  [2,2,3]  =>  [2,2,2]
-</pre>
+**Example:**
+<pre>
+**Input:**
+[1,2,3]
+
+**Output:**
+2
+
+**Explanation:**
+Only two moves are needed (remember each move increments or decrements one element):
+
+[1,2,3]  =>  [2,2,3]  =>  [2,2,2]
+</pre>
 

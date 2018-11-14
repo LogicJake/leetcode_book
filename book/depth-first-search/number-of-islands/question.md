@@ -2,14 +2,8 @@
 ### 链接  
 https://leetcode.com/problems/number-of-islands/description/  
 ### 问题描述
-Given a 2d grid map of `'1'`s (land) and `'0'`s (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+Given a 2d grid map of `&#39;1&#39;`s (land) and `&#39;0&#39;`s (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
-***Example 1:***
+**Example 1:**
 
-Answer: 1
-
-***Example 2:***
-
-Answer: 3
-
-**Credits:**<br />Special thanks to [@mithmatt](https://leetcode.com/discuss/user/mithmatt) for adding this problem and creating all test cases.
+**Example 2:**

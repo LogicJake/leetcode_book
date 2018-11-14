@@ -2,16 +2,14 @@
 ### 链接  
 https://leetcode.com/problems/first-missing-positive/description/  
 ### 问题描述
-
-Given an unsorted integer array, find the first missing positive integer.
+Given an unsorted integer array, find the smallest missing&nbsp;positive integer.
 
+**Example 1:**
 
-
-For example,<br />
-Given `[1,2,0]` return `3`,<br />
-and `[3,4,-1,1]` return `2`.
+**Example 2:**
 
+**Example 3:**
 
-
-Your algorithm should run in *O*(*n*) time and uses constant space.
+**Note:**
 
+Your algorithm should run in **O**(**n**) time and uses constant extra space.

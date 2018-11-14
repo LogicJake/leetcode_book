@@ -11,7 +11,7 @@ If possible, output any possible result.&nbsp; If not possible, return the empty
 **Example 2:**
 
 **Note:**
-
-	- `S` will consist of lowercase letters and have length in range `[1, 500]`.
+
+	- `S` will consist of lowercase letters and have length in range `[1, 500]`.
 
 &nbsp;

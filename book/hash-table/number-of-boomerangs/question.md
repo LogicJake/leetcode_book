@@ -6,15 +6,15 @@ Given *n* points in the plane that are all pairwise distinct, a "boomerang" is a
 
 Find the number of boomerangs. You may assume that *n* will be at most **500** and coordinates of points are all in the range **[-10000, 10000]** (inclusive).
 
-**Example:**<br />
-<pre>
-**Input:**
-[[0,0],[1,0],[2,0]]
-
-**Output:**
-2
-
-**Explanation:**
-The two boomerangs are **[[1,0],[0,0],[2,0]]** and **[[1,0],[2,0],[0,0]]**
-</pre>
+**Example:**<br />
+<pre>
+**Input:**
+[[0,0],[1,0],[2,0]]
+
+**Output:**
+2
+
+**Explanation:**
+The two boomerangs are **[[1,0],[0,0],[2,0]]** and **[[1,0],[2,0],[0,0]]**
+</pre>
 

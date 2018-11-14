@@ -6,50 +6,50 @@ Given a binary tree, find the length of the longest path where each node in the 
 
 **Note:** The length of path between two nodes is represented by the number of edges between them.
 
-
-**Example 1:**
+
+**Example 1:**
 
 
-
-Input:
-<pre>
-              5
-             / \
-            4   5
-           / \   \
-          1   1   5
-</pre>
+
+Input:
+<pre>
+              5
+             / \
+            4   5
+           / \   \
+          1   1   5
+</pre>
 
 
-
-Output:
-<pre>
-2
-</pre>
+
+Output:
+<pre>
+2
+</pre>
 
 
-
-**Example 2:**
+
+**Example 2:**
 
 
-
-Input:
-<pre>
-              1
-             / \
-            4   5
-           / \   \
-          4   4   5
-</pre>
+
+Input:
+<pre>
+              1
+             / \
+            4   5
+           / \   \
+          4   4   5
+</pre>
 
 
-
-Output:
-<pre>
-2
-</pre>
+
+Output:
+<pre>
+2
+</pre>
 
 
-**Note:**
-The given binary tree has not more than 10000 nodes.  The height of the tree is not more than 1000.
+**Note:**
+The given binary tree has not more than 10000 nodes.  The height of the tree is not more than 1000.
 

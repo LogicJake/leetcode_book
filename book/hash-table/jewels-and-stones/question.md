@@ -11,6 +11,6 @@ The letters in `J` are guaranteed distinct, and all characters in `J` and `S` ar
 **Example 2:**
 
 **Note:**
-
-	- `S` and `J` will consist of letters and have length at most 50.
-	- The characters in `J` are distinct.
+
+	- `S` and `J` will consist of letters and have length at most 50.
+	- The characters in `J` are distinct.

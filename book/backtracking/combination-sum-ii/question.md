@@ -2,29 +2,15 @@
 ### 链接  
 https://leetcode.com/problems/combination-sum-ii/description/  
 ### 问题描述
-
-Given a collection of candidate numbers (***C***) and a target number (***T***), find all unique combinations in ***C*** where the candidate numbers sums to ***T***.
+Given a collection of candidate numbers (`candidates`) and a target number (`target`), find all unique combinations in `candidates`&nbsp;where the candidate numbers sums to `target`.
 
+Each number in `candidates`&nbsp;may only be used **once** in the combination.
 
-Each number in ***C*** may only be used **once** in the combination.
+**Note:**
 
+	- All numbers (including `target`) will be positive integers.
+	- The solution set must not contain duplicate combinations.
 
-**Note:**<br />
-<ul>
-- All numbers (including target) will be positive integers.
-- The solution set must not contain duplicate combinations.
-</ul>
+**Example 1:**
 
-
-
-For example, given candidate set `[10, 1, 2, 7, 6, 1, 5]` and target `8`, <br />
-A solution set is: <br />
-<pre>
-[
-  [1, 7],
-  [1, 2, 5],
-  [2, 6],
-  [1, 1, 6]
-]
-</pre>
-
+**Example 2:**

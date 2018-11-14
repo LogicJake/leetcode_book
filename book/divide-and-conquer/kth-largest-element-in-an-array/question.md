@@ -2,11 +2,11 @@
 ### 链接  
 https://leetcode.com/problems/kth-largest-element-in-an-array/description/  
 ### 问题描述
-For example,<br>
-Given `[3,2,1,5,6,4]` and k = 2, return 5.
+Find the **k**th largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
+**Example 1:**
 
-**Note: **<br>
-You may assume k is always valid, 1 &le; k &le; array's length.
+**Example 2:**
 
-**Credits:**<br />Special thanks to [@mithmatt](https://leetcode.com/discuss/user/mithmatt) for adding this problem and creating all test cases.
+**Note: **<br />
+You may assume k is always valid, 1 &le; k &le; array&#39;s length.

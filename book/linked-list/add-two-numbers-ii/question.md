@@ -6,14 +6,14 @@ You are given two **non-empty** linked lists representing two non-negative integ
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-**Follow up:**<br />
-What if you cannot modify the input lists? In other words, reversing the lists is not allowed.
+**Follow up:**<br />
+What if you cannot modify the input lists? In other words, reversing the lists is not allowed.
 
 
-
-**Example:**
-<pre>
-**Input:** (7 -> 2 -> 4 -> 3) + (5 -> 6 -> 4)
-**Output:** 7 -> 8 -> 0 -> 7
-</pre>
+
+**Example:**
+<pre>
+**Input:** (7 -> 2 -> 4 -> 3) + (5 -> 6 -> 4)
+**Output:** 7 -> 8 -> 0 -> 7
+</pre>
 

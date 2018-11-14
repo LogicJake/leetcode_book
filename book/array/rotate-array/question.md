@@ -2,16 +2,13 @@
 ### 链接  
 https://leetcode.com/problems/rotate-array/description/  
 ### 问题描述
-Rotate an array of *n* elements to the right by *k* steps.
+Given an array, rotate the array to the right by **k** steps, where&nbsp;**k**&nbsp;is non-negative.
 
-For example, with *n* = 7 and *k* = 3, the array `[1,2,3,4,5,6,7]` is rotated to `[5,6,7,1,2,3,4]`. 
+**Example 1:**
 
-**Note:**<br />
-Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
+**Example 2:**
 
+**Note:**
 
-[[show hint]](#)
-
-Related problem: [Reverse Words in a String II](/problems/reverse-words-in-a-string-ii/)
-
-**Credits:**<br />Special thanks to [@Freezen](https://oj.leetcode.com/discuss/user/Freezen) for adding this problem and creating all test cases.
+	- Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
+	- Could you do it in-place with O(1) extra space?

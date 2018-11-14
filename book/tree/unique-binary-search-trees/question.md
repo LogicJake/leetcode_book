@@ -2,17 +2,6 @@
 ### 链接  
 https://leetcode.com/problems/unique-binary-search-trees/description/  
 ### 问题描述
-Given *n*, how many structurally unique **BST's** (binary search trees) that store values 1...*n*?
+Given **n**, how many structurally unique **BST&#39;s** (binary search trees) that store values 1 ...&nbsp;**n**?
 
-
-For example,<br />
-Given *n* = 3, there are a total of 5 unique BST's.
-
-<pre>
-   1         3     3      2      1
-    \       /     /      / \      \
-     3     2     1      1   3      2
-    /     /       \                 \
-   2     1         2                 3
-</pre>
-
+**Example:**

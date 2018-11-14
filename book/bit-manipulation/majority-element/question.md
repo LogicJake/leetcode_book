@@ -6,4 +6,6 @@ Given an array of size *n*, find the majority element. The majority element is t
 
 You may assume that the array is non-empty and the majority element always exist in the array.
 
-**Credits:**<br />Special thanks to [@ts](https://oj.leetcode.com/discuss/user/ts) for adding this problem and creating all test cases.
+**Example 1:**
+
+**Example 2:**

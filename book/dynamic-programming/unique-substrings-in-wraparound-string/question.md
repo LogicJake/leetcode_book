@@ -8,27 +8,27 @@ Now we have another string `p`. Your job is to find out how many unique non-empt
 
 **Note:** `p` consists of only lowercase English letters and the size of p might be over 10000.
 
-**Example 1:**<br />
-<pre>
-**Input:** "a"
-**Output:** 1
-
-**Explanation:** Only the substring "a" of string "a" is in the string s.
-</pre>
+**Example 1:**<br />
+<pre>
+**Input:** "a"
+**Output:** 1
+
+**Explanation:** Only the substring "a" of string "a" is in the string s.
+</pre>
 
 
-**Example 2:**<br />
-<pre>
-**Input:** "cac"
-**Output:** 2
-**Explanation:** There are two substrings "a", "c" of string "cac" in the string s.
-</pre>
+**Example 2:**<br />
+<pre>
+**Input:** "cac"
+**Output:** 2
+**Explanation:** There are two substrings "a", "c" of string "cac" in the string s.
+</pre>
 
 
-**Example 3:**<br />
-<pre>
-**Input:** "zab"
-**Output:** 6
-**Explanation:** There are six substrings "z", "a", "b", "za", "ab", "zab" of string "zab" in the string s.
-</pre>
+**Example 3:**<br />
+<pre>
+**Input:** "zab"
+**Output:** 6
+**Explanation:** There are six substrings "z", "a", "b", "za", "ab", "zab" of string "zab" in the string s.
+</pre>
 

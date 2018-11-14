@@ -4,6 +4,8 @@ https://leetcode.com/problems/factorial-trailing-zeroes/description/
 ### 问题描述
 Given an integer *n*, return the number of trailing zeroes in *n*!.
 
-**Note: **Your solution should be in logarithmic time complexity.
+**Example 1:**
 
-**Credits:**<br />Special thanks to [@ts](https://oj.leetcode.com/discuss/user/ts) for adding this problem and creating all test cases.
+**Example 2:**
+
+**Note: **Your solution should be in logarithmic time complexity.

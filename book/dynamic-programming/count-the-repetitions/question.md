@@ -8,13 +8,13 @@ On the other hand, we define that string s1 can be obtained from string s2 if we
 
 You are given two non-empty strings s1 and s2 (each at most 100 characters long) and two integers 0 &le; n1 &le; 10<sup>6</sup> and 1 &le; n2 &le; 10<sup>6</sup>. Now consider the strings S1 and S2, where `S1=[s1,n1]` and `S2=[s2,n2]`. Find the maximum integer M such that `[S2,M]` can be obtained from `S1`.
 
-**Example:**
-<pre>
-Input:
-s1="acb", n1=4
-s2="ab", n2=2
-
-Return:
-2
-</pre>
+**Example:**
+<pre>
+Input:
+s1="acb", n1=4
+s2="ab", n2=2
+
+Return:
+2
+</pre>
 

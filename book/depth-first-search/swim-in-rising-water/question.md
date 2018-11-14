@@ -13,6 +13,6 @@ You start at the top left square `(0, 0)`. What is the least time until you can 
 **Example 2:**
 
 **Note:**
-
-	1. `2 &lt;= N &lt;= 50`.
-	1. grid[i][j] is a permutation of [0, ..., N*N - 1].
+
+	1. `2 &lt;= N &lt;= 50`.
+	1. grid[i][j] is a permutation of [0, ..., N*N - 1].

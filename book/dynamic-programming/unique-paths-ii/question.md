@@ -2,15 +2,16 @@
 ### 链接  
 https://leetcode.com/problems/unique-paths-ii/description/  
 ### 问题描述
-Follow up for "Unique Paths":
+A robot is located at the top-left corner of a **m** x **n** grid (marked &#39;Start&#39; in the diagram below).
+
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked &#39;Finish&#39; in the diagram below).
 
 Now consider if some obstacles are added to the grids. How many unique paths would there be?
 
+<img src="https://leetcode.com/static/images/problemset/robot_maze.png" />
+
 An obstacle and empty space is marked as `1` and `0` respectively in the grid.
 
-For example,<br />
-<p>There is one obstacle in the middle of a 3x3 grid as illustrated below.
+**Note:** **m** and **n** will be at most 100.
 
-The total number of unique paths is `2`.
-
-**Note:** *m* and *n* will be at most 100.
+**Example 1:**

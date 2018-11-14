@@ -13,6 +13,6 @@ Given a puzzle board, return the least number of moves required so that the stat
 **Examples:**
 
 **Note:**
-
-	- `board` will be a 2 x 3 array as described above.
-	- `board[i][j]` will be a permutation of `[0, 1, 2, 3, 4, 5]`.
+
+	- `board` will be a 2 x 3 array as described above.
+	- `board[i][j]` will be a permutation of `[0, 1, 2, 3, 4, 5]`.

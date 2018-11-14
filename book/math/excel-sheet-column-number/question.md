@@ -2,10 +2,12 @@
 ### 链接  
 https://leetcode.com/problems/excel-sheet-column-number/description/  
 ### 问题描述
-Related to question [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
-
 Given a column title as appear in an Excel sheet, return its corresponding column number.
 
 For example:
 
-**Credits:**<br />Special thanks to [@ts](https://leetcode.com/discuss/user/ts) for adding this problem and creating all test cases.
+**Example 1:**
+
+**Example 2:**
+
+**Example 3:**
